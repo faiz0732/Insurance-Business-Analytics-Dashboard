@@ -135,7 +135,7 @@ The project demonstrates a **complete analytics lifecycle**:
 | Database & Analysis | MySQL (Workbench) | Data modeling & KPI queries |
 | Data Preparation | Microsoft Excel | Data cleaning & dashboard |
 | BI & Visualization | Power BI | Interactive dashboards |
-| Programming | Python (Planned) | Data analysis & EDA |
+| Programming | Python | Data analysis & EDA |
 
 ---
 
