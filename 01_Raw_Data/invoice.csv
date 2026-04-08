@@ -1,0 +1,205 @@
+invoice_number,invoice_date,revenue_transaction_type,branch_name,solution_group,Account Exe ID,Account Executive,income_class,Client Name,policy_number,Amount,income_due_date
+1900001087,11-04-2019,Fees,Ahmedabad,Liability,10,Mark,New,Sanjay Trivedi,,84746,10-04-2019
+1900001106,17-05-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Anita Sethi,2.4142E+18,86724,01-01-2019
+1900001110,17-05-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Ashok Chatterjee,OG-19-2202-1018-00000060,148500,01-03-2019
+1900001136,30-05-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Rani Agarwal,OG-19-2202-3383-00000010,12019,01-01-2019
+1900001164,11-06-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Arjun Rao,020P000098803000,12500,26-02-2019
+1900001165,11-06-2019,Brokerage,Ahmedabad,Employee Benefits (EB),5,Juli,New,Anil Naik,2.06314E+11,58300,16-02-2019
+1900001167,13-06-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Simran Trivedi,OG-19-2202-3383-00000009,12019,01-01-2019
+1900001168,13-06-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Dhruv Chopra,OG-19-2202-3383-00000008,30048,01-01-2019
+1900001169,13-06-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Jaya Chopra,3.1242E+18,14394,02-01-2019
+1900001282,13-07-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,New,Kiran Goyal,H0048996,32392,10-05-2019
+1900001293,16-07-2019,Brokerage,Ahmedabad,Liability,13,Vidit Shah,Cross Sell,Pravin Sengupta,'001P000202300000,162500,05-04-2019
+1900001294,16-07-2019,Brokerage,Ahmedabad,Liability,13,Vidit Shah,Cross Sell,Snehal Das,'001P000203500000,250000,18-04-2019
+1900001304,17-07-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Rajesh Malhotra,2280082714,2646,11-03-2019
+1900001305,17-07-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,New,Archana Bhatia,8502066,18150,03-01-2019
+1900001306,17-07-2019,Brokerage,Ahmedabad,Liability,2,Abhinav Shivam,Cross Sell,Ashok Reddy,"2999202758217600000""",60025,22-04-2019
+1900001308,17-07-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,Madhuri Bhatia,9.9E+19,134736,25-04-2019
+1900001342,23-07-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Pranav Mishra,H0048996,914999,01-01-2019
+1900001354,24-07-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Rina Goyal,3.1142E+18,2942,11-04-2019
+1900001355,24-07-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Geeta Gupta,OG-19-2202-1002-00001981,6740,04-03-2019
+1900001356,24-07-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Sudhir Roy,OG-19-2202-1002-00001901,6740,17-02-2019
+1900001361,27-07-2019,Brokerage,Ahmedabad,Liability,3,Animesh Rawat,Cross Sell,Rani Kaul,41045707,74250,01-04-2019
+1900001376,29-07-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,New,Kavita Sharma,H0056637,1614,11-03-2019
+1900001377,29-07-2019,Brokerage,Ahmedabad,Marine,13,Vidit Shah,Cross Sell,Shikha Sethi,'99000021180100000013,11540,29-01-2019
+1900001385,31-07-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,New,Amit Bhargava,P0019200001/9999/100301,2140,30-01-2019
+1900001388,31-07-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Alka Goel,0000000008502066-01,45375,01-03-2019
+1900001390,31-07-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Harish Sharma,32119154,11593,01-04-2019
+1900001392,31-07-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,New,Gaurav Goel,H0048996,46995,29-01-2019
+1900001393,31-07-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Ravi Naik,OG-19-2202-4010-00002245,529,18-02-2019
+1900001394,31-07-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Kamlesh Prasad,OG-19-2202-1018-00000059,18563,01-03-2019
+1900001396,31-07-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,New,Nikhil Verma,H0048996,27435,23-01-2019
+1900001397,31-07-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Vaishali Desai,505373-01,25336,26-02-2019
+1900001398,31-07-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Cross Sell,Atul Naik,H0067187,10772,14-03-2019
+1900001403,31-07-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Cross Sell,Meena Bhargava,H0067187,9283,18-04-2019
+1900001404,31-07-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Cross Sell,Mona Chopra,H0067187,6903,30-05-2019
+1900001405,31-07-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",13,Vidit Shah,Renewal,Mohit Tiwari,'99000044190700000001,90663,01-04-2019
+1900001583,14-08-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Tina Dutta,100200080123/01/00,156000,04-01-2019
+1900001602,17-08-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Hemant Das,OG-19-2202-1018-00000054,21157,01-01-2019
+1900001603,17-08-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Sanjana Bhargava,OG-19-2202-1018-00000053,77787,01-01-2019
+1900001604,17-08-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Kamlesh Trivedi,OG-19-2202-4001-00011127,8468,18-02-2019
+1900001605,17-08-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Nikita Tiwari,237164239 00,1825,01-02-2019
+1900001606,17-08-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Kapil Kapoor,H0067187,329250,28-02-2019
+1900001607,17-08-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Harish Rana,304003763,344794,01-04-2019
+1900001608,17-08-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Nikhil Pandit,2304001082-01,37500,01-04-2019
+1900001609,17-08-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Vivek Rana,H0056637,49789,01-01-2019
+1900001610,17-08-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Hemant Nair,0600010004 01,64,16-03-2019
+1900001611,17-08-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Veena Bhargava,0000000008907502-01,6250,24-02-2019
+1900002041,28-08-2019,Brokerage,Ahmedabad,Trade Credit &amp; Political Risk,1,Vinay,Renewal,Shivam Shah,1.31001E+19,124875,07-03-2019
+1900002042,28-08-2019,Brokerage,Ahmedabad,Liability,3,Animesh Rawat,Cross Sell,Bhavna Bhandari,43190133,7783,11-06-2019
+1900002043,28-08-2019,Brokerage,Ahmedabad,Liability,3,Animesh Rawat,Cross Sell,Tarun Shah,43189992,7835,10-06-2019
+1900002044,28-08-2019,Brokerage,Ahmedabad,Liability,5,Juli,New,Hemant Chauhan,41045400,70125,19-03-2019
+1900002045,28-08-2019,Brokerage,Ahmedabad,Liability,5,Juli,New,Geeta Verma,41045403,70125,19-03-2019
+1900002046,28-08-2019,Brokerage,Ahmedabad,Property / BI,13,Vidit Shah,Renewal,Ashok Patel,'99000046192400000001,60229,01-04-2019
+1900002047,28-08-2019,Brokerage,Ahmedabad,Property / BI,13,Vidit Shah,Renewal,Gayatri Reddy,'99000011180100000303,98931,16-01-2019
+1900002048,28-08-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Snehal Patel,OG-19-2202-1018-00000055,21769,01-01-2019
+1900002049,28-08-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Vivek Yadav,0640002231 04,65369,17-04-2019
+1900002050,28-08-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Kiran Saxena,304003761,5206,01-04-2019
+1900002051,28-08-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Uday Reddy,0301004265-1,23750,09-03-2019
+1900002052,28-08-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Anita Pandit,0600010004 02,1557,16-04-2019
+1900002072,28-08-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",13,Vidit Shah,Cross Sell,Hina Malhotra,'99000044190300000004,40960,20-04-2019
+1900002229,31-08-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",13,Vidit Shah,Renewal,Alka Patel,'99000044180700000012,12055,14-02-2019
+1900002230,31-08-2019,Brokerage,Ahmedabad,Property / BI,13,Vidit Shah,Renewal,Shruti Roy,'99000011180100000340,131090,26-02-2019
+1900002232,31-08-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",13,Vidit Shah,Renewal,Archana Singh,'99000044185800000014,27069,14-02-2019
+1900002265,31-08-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Mukul Goyal,4092/151965577/01/000,215165,01-04-2019
+1900002331,03-09-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Namita Bajaj,5002/131802941/02/000,870,26-05-2019
+1900002384,05-09-2019,Brokerage,Ahmedabad,Trade Credit &amp; Political Risk,1,Vinay,New,Nikita Joshi,2000010048,8174,18-07-2019
+1900002387,05-09-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Tejas Shah,4016/120415654/03/00,22246,14-07-2019
+1900002458,09-09-2019,Brokerage,Ahmedabad,Liability,5,Juli,New,Kavita Rao,43187020,7451,22-04-2019
+1900002464,09-09-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Cross Sell,Hemant Shah,H0067187,7110,29-07-2019
+1900002472,09-09-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Prabhat Naik,4006/131284920/02/000,692,15-05-2019
+1900002635,17-09-2019,Brokerage,Ahmedabad,Trade Credit &amp; Political Risk,1,Vinay,Renewal,Nikhil Tiwari,NBI Domestic,65051,01-01-2019
+1900002636,17-09-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Neha Trivedi,4001/117090005/03/000,1005,01-05-2019
+1900002637,17-09-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Cross Sell,Shruti Agarwal,H0067187,6259,21-06-2019
+1900002638,17-09-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Cross Sell,Kiran Desai,H0048996,9941,10-07-2019
+1900002639,17-09-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Kanchan Iyer,2600015265 00,9990,23-05-2019
+1900002640,17-09-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Bhavna Kapoor,4016/133979727/02/000,74673,29-06-2019
+1900002880,20-09-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Ritika Reddy,0640002231 03,4362,02-04-2019
+1900003129,30-09-2019,Brokerage,Ahmedabad,Property / BI,13,Vidit Shah,Renewal,Suresh Das,'99000011180100000339,1610,14-02-2019
+1900003131,30-09-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Shikha Chauhan,3.1142E+18,20166,01-07-2019
+1900003209,10-10-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Hemant Dutta,4005/134645920/02/000,8605,29-06-2019
+1900003210,10-10-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Dinesh Pandey,4101190600000030-00,52500,17-05-2019
+1900003211,10-10-2019,Brokerage,Ahmedabad,Liability,13,Vidit Shah,Cross Sell,Archana Iyer,'99000036181500000054,21875,01-02-2019
+1900003212,10-10-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Cross Sell,Deepak Menon,H0048996,93906,07-03-2019
+1900003213,10-10-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Vivek Gupta,54407334,23387,01-01-2019
+1900003214,10-10-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Rina Shah,AG00059046000100,3347,01-04-2019
+1900003404,17-10-2019,Brokerage,Ahmedabad,Liability,2,Abhinav Shivam,Cross Sell,Uday Prasad,2.9992E+18,60025,08-07-2019
+1900003405,17-10-2019,Brokerage,Ahmedabad,Marine,13,Vidit Shah,Renewal,Nitin Kapoor,2412/202063061201000,13613,07-01-2019
+1900003406,17-10-2019,Brokerage,Ahmedabad,Employee Benefits (EB),5,Juli,New,Harish Kaul,4101190700000015-00,79834,25-06-2019
+1900003407,17-10-2019,Brokerage,Ahmedabad,Liability,2,Abhinav Shivam,Cross Sell,Neeraj Arora,2.9992E+18,60025,08-07-2019
+1900003928,12-11-2019,Brokerage,Ahmedabad,Liability,10,Mark,Cross Sell,Mukul Kumar,14055133,63000,26-07-2019
+1900003930,12-11-2019,Fees,Ahmedabad,"Construction, Power & Infrastructure",2,Abhinav Shivam,Cross Sell,Gauri Naik,,100000,17-07-2019
+1900003931,12-11-2019,Fees,Ahmedabad,"Construction, Power & Infrastructure",2,Abhinav Shivam,Cross Sell,Harish Menon,,100000,21-01-2019
+1900004171,26-11-2019,Fees,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Mohit Gupta,,254336,25-01-2019
+1900004173,26-11-2019,Fees,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Amit Arora,,266949,25-01-2019
+1900004220,03-12-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Nikita Pandit,54445288,11111,28-02-2019
+1900004221,03-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,Vikas Gupta,9.9E+19,3008,12-04-2019
+1900004376,05-12-2019,Brokerage,Ahmedabad,Liability,3,Animesh Rawat,Cross Sell,Kamlesh Pillai,43193940,6184,07-08-2019
+1900004378,05-12-2019,Brokerage,Ahmedabad,Property / BI,5,Juli,New,Umesh Agarwal,YB00020403000100,1568,08-02-2019
+1900004380,05-12-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Cross Sell,Ankur Gandhi,H0048996,18901,14-09-2019
+1900004382,05-12-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,New,Dinesh Kaul,H0048996,27682,14-08-2019
+1900004383,05-12-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Cross Sell,Ankur Naik,H0067187,5501,21-10-2019
+1900004384,05-12-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Alex Johnson,4016 138636598 02 000,123750,30-09-2019
+1900004404,06-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Emily Thompson,OG-20-2202-0425-00000017,825,01-07-2019
+1900004408,06-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Liam Smith,OG-20-2202-9931-00032558,1556,01-07-2019
+1900004411,06-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Ava Davis,OG-20-2202-4004-00000064,12350,01-07-2019
+1900004474,09-12-2019,Brokerage,Ahmedabad,Marine,3,Animesh Rawat,Cross Sell,Noah Wilson,2412 2020 7182 9001 000,15593,12-01-2019
+1900004500,09-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,Olivia Brown,9.9E+17,2212,10-04-2019
+1900004501,09-12-2019,Brokerage,Ahmedabad,Employee Benefits (EB),3,Animesh Rawat,Cross Sell,William Martinez,54522170,9056,09-07-2019
+1900004503,10-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Sophia Garcia,OG-20-2202-3304-00000009,1897,01-07-2019
+1900004505,10-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,James Miller,OG-20-2202-3383-00000002,42500,01-07-2019
+1900004507,10-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Mia Rodriguez,OG-20-2202-4002-00000010,10917,01-07-2019
+1900004518,10-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Benjamin Anderson,OG-20-2202-4010-00000869,3375,01-07-2019
+1900004535,10-12-2019,Fees,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Charlotte Taylor,1011/142530053/01/000,320175,06-12-2019
+1900004535,10-12-2019,Fees,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Lucas Hernandez,3.1242E+18,320175,06-12-2019
+1900004535,10-12-2019,Fees,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Amelia Moore,OG-19-2202-1018-00000052,320175,06-12-2019
+1900004538,10-12-2019,Fees,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Henry Thomas,OG-20-2202-3315-00000009,168593,28-05-2019
+1900004538,10-12-2019,Fees,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Harper Martin,P0019200001/9999/100301,168593,28-05-2019
+1900004894,19-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Alexander Jackson,43196279,2970,22-09-2019
+1900004898,19-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Ella White,3.1142E+18,7022,26-08-2019
+1900004909,19-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Michael Lee,0301004728-2019,202350,30-09-2019
+1900004912,19-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Grace Harris,3.2134E+23,87500,31-07-2019
+1900004917,19-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Daniel Clark,22515779,44260,30-09-2019
+1900004919,19-12-2019,Brokerage,Ahmedabad,Property / BI,5,Juli,New,Scarlett Lewis,9.9E+19,11550,08-09-2019
+1900004920,19-12-2019,Brokerage,Ahmedabad,Small Medium Enterpries (SME),5,Juli,New,Matthew Walker,9.9E+19,43033,08-09-2019
+1900004922,19-12-2019,Brokerage,Ahmedabad,Property / BI,5,Juli,New,Madison Robinson,9.9E+19,7700,08-09-2019
+1900004923,19-12-2019,Brokerage,Ahmedabad,Small Medium Enterpries (SME),5,Juli,New,David Hall,9.9E+19,72139,08-09-2019
+1900004928,19-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,Lily Young,9.9E+19,32585,11-09-2019
+1900004933,19-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,Samuel Allen,9.9E+19,8045,22-09-2019
+1900004983,19-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Chloe King,0000000010619837-01,26968,25-10-2019
+1900004984,19-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Joseph Scott,0000000007404252-02,2437,26-10-2019
+1900004985,19-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Evelyn Wright,OG-19-2202-1018-00000052,53278,01-01-2019
+1900004986,19-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Andrew Adams,OG-19-2202-3383-00000007,30048,01-01-2019
+1900004987,19-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Aria Baker,3.1142E+18,12500,19-09-2019
+1900005036,20-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Christopher Campbell,ER00004563000100,3854,30-04-2019
+1900005300,24-12-2019,Fees,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Zoe Rivera,304003763,132392,20-12-2019
+1900005300,24-12-2019,Fees,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Anthony Mitchell,1003/126704810/02/000,132392,20-12-2019
+1900005300,24-12-2019,Fees,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Mila Flores,2.4142E+18,132392,20-12-2019
+1900005300,24-12-2019,Fees,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Joshua Roberts,4092/151965577/01/000,132392,20-12-2019
+1900005324,24-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,Nora Sanders,9.9E+19,26805,19-11-2019
+1900005325,24-12-2019,Brokerage,Ahmedabad,Employee Benefits (EB),5,Juli,Renewal,Ryan Murphy,43191791,956,03-07-2019
+1900005329,24-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Ellie Patterson,3.1142E+18,2089,26-08-2019
+1900005331,24-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Ethan Hughes,OG-20-2202-1005-00000171-2019,8580,21-09-2019
+1900005394,25-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Layla Price,OG-20-2202-4004-00000062,60713,01-07-2019
+1900005395,25-12-2019,Brokerage,Ahmedabad,Marine,4,Gilbert,Renewal,Elijah Cox,22531899,50160,27-10-2019
+1900005396,25-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Penelope Butler,OG-19-2202-1018-00000047,71765,26-10-2019
+1900005439,25-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",13,Vidit Shah,Cross Sell,Sebastian Long,'99000044180300000048,62399,14-11-2019
+1900005516,26-12-2019,Brokerage,Ahmedabad,Liability,10,Mark,Cross Sell,Riley Brooks,2280014070,27530,09-03-2019
+1900005526,26-12-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Jack Richardson,180876-0000-01,60000,01-04-2019
+1900005527,26-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Lily Wood,1.203E+19,77400,10-08-2019
+1900005528,26-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Dylan Stewart,1.203E+19,302812,10-08-2019
+1900005529,26-12-2019,Brokerage,Ahmedabad,Property / BI,13,Vidit Shah,Renewal,Audrey Morgan,'0655001664 03,275569,01-03-2019
+1900005530,26-12-2019,Brokerage,Ahmedabad,Liability,13,Vidit Shah,Renewal,Luke Barnes,'0304001755,320000,31-01-2019
+1900005531,26-12-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Bella Sanchez,3393,114752,01-11-2019
+1900005532,26-12-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,New,Mason Bell,H0056637,49027,04-02-2019
+1900005555,26-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",13,Vidit Shah,Cross Sell,Lillian Parker,'99000044180300000078,153332,19-10-2019
+1900005760,28-12-2019,Brokerage,Ahmedabad,Marine,5,Juli,New,Owen Reed,2.4142E+18,23591,01-05-2019
+1900005761,28-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Sadie Jenkins,OG-20-2202-3315-00000012,19181,02-08-2019
+1900005767,28-12-2019,Brokerage,Ahmedabad,Small Medium Enterpries (SME),5,Juli,New,Gabriel Cooper,2.306E+19,8228,28-02-2019
+1900005768,28-12-2019,Brokerage,Ahmedabad,Small Medium Enterpries (SME),5,Juli,Cross Sell,Aubrey Coleman,2.306E+19,5241,12-07-2019
+1900005769,28-12-2019,Brokerage,Ahmedabad,Small Medium Enterpries (SME),5,Juli,Cross Sell,Aiden Bailey,9.9E+19,13154,10-10-2019
+1900005770,28-12-2019,Brokerage,Ahmedabad,Small Medium Enterpries (SME),5,Juli,New,Hannah Evans,9.9E+19,14461,08-09-2019
+1900005771,28-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Isaac Morris,2019-L0138835-FWC,2853,23-06-2019
+1900005772,28-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Mila Carter,2019-L0139704-PBL,495,23-06-2019
+1900005773,28-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Logan Kelly,2018-F0513845-BSS,5891,04-02-2019
+1900005774,28-12-2019,Brokerage,Ahmedabad,Property / BI,3,Animesh Rawat,Cross Sell,Camila Howard,OG-20-2202-4004-00000043,4596,16-05-2019
+1900005775,28-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,Jayden Hughes,9.9E+19,21443,03-07-2019
+1900005776,28-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,Savannah Ward,9.9E+19,21442,20-10-2019
+1900005777,28-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,Caleb Bryant,9.9E+19,21443,16-03-2019
+1900005778,28-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,Zoe Fisher,9.9E+19,17949,03-07-2019
+1900005779,28-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,Nathan Martinez,9.9E+19,17949,16-03-2019
+1900005780,28-12-2019,Brokerage,Ahmedabad,Property / BI,5,Juli,New,Addison Henderson,PFS/I3353707/71/01/006343,7889,12-01-2019
+1900005781,28-12-2019,Brokerage,Ahmedabad,Liability,3,Animesh Rawat,Cross Sell,Hunter Collins,3.1142E+18,8198,25-10-2019
+1900005782,28-12-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,New,Paisley Price,H0048996,18697,11-03-2019
+1900005783,28-12-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,New,Julian Hayes,H0048996,17140,11-10-2019
+1900005784,28-12-2019,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,New,Bella Gonzales,H0048996,8561,14-11-2019
+1900005785,28-12-2019,Brokerage,Ahmedabad,Liability,5,Juli,Renewal,Christian Spencer,43191787,6213,03-07-2019
+1900005786,28-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Scarlett Webb,OG-20-2202-4097-00000201,8625,21-09-2019
+1900005787,28-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Dominic Graham,OG-20-2202-4097-00000170,4579,21-09-2019
+1900005788,28-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Violet Pearson,OG-19-2202-1005-00000153,1980,14-06-2019
+1900005789,28-12-2019,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Jonathan Peterson,OG-20-2202-4097-00000171,3330,21-09-2019
+1900005910,31-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",2,Abhinav Shivam,Cross Sell,Maya Simmons,'99000044180300000047,90282,27-02-2019
+1900005911,31-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",13,Vidit Shah,Cross Sell,Connor Foster,'99000044180300000048,68639,14-05-2019
+1900005912,31-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",2,Abhinav Shivam,Cross Sell,Aurora Hamilton,'99000044180300000047,90282,27-08-2019
+1900005913,31-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",2,Abhinav Shivam,Cross Sell,Adrian Ross,'99000044180300000047,90282,27-05-2019
+1900005915,31-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",13,Vidit Shah,Cross Sell,Natalia Stone,'99000044180300000076,67102,27-03-2019
+1900005959,31-12-2019,Brokerage,Ahmedabad,Liability,13,Vidit Shah,Renewal,Miles Andrews,'0300004329,125000,31-01-2019
+1900005960,31-12-2019,Brokerage,Ahmedabad,Trade Credit &amp; Political Risk,1,Vinay,Renewal,Hazel McCarthy,TBA,115781,28-07-2019
+1900005961,31-12-2019,Brokerage,Ahmedabad,Liability,13,Vidit Shah,Renewal,Aaron Nichols,'23060036180200000022,137500,01-01-2019
+1900005962,31-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",2,Abhinav Shivam,Cross Sell,Piper Holland,'99000044180300000078,208093,25-03-2019
+1900005964,31-12-2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",2,Abhinav Shivam,Cross Sell,Evan Bishop,'99000044180300000078,153332,07-07-2019
+1900005965,31-12-2019,Brokerage,Ahmedabad,Liability,13,Vidit Shah,Renewal,Lucy Reid,'91000036191700000002,131250,23-05-2019
+2000001072,03-01-2020,Brokerage,Ahmedabad,Marine,5,Juli,Renewal,Cameron Lawson,2.4142E+18,56100,08-03-2019
+2000001076,03-01-2020,Brokerage,Ahmedabad,Marine,13,Vidit Shah,Renewal,Nora Freeman,0830016972 02,50333,01-03-2019
+2000001082,03-01-2020,Brokerage,Ahmedabad,Liability,13,Vidit Shah,Renewal,Tyler Stevens,41046110,74250,09-04-2019
+2000001083,03-01-2020,Brokerage,Ahmedabad,Employee Benefits (EB),5,Juli,Renewal,Sydney Gibson,4101191100000008-00,48929,10-11-2019
+2000001086,03-01-2020,Brokerage,Ahmedabad,PB Client Network (GNB Inward),1,Vinay,Cross Sell,Caleb Watts,1.112E+19,49401,03-01-2019
+2000001563,16-01-2020,Brokerage,Ahmedabad,Marine,5,Juli,New,Ruby Holland,MCO/I3350570/71/01/006343,9075,12-01-2019
+2000001567,16-01-2020,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",13,Vidit Shah,Cross Sell,Robert Black,'11120044180300000011,24072,13-03-2019
+2000001570,16-01-2020,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Alice Wheeler,LPGPA0000000200/01,5550,04-01-2019
+2000001575,16-01-2020,Brokerage,Ahmedabad,Property / BI,13,Vidit Shah,Cross Sell,Justin Kim,'99000046192400000039,10938,12-06-2019
+2000001579,16-01-2020,Brokerage,Ahmedabad,Emerging Corporates Group (ECG),3,Animesh Rawat,Cross Sell,Molly Zimmerman,2280038722,2789,15-07-2019
+2000001583,16-01-2020,Brokerage,Ahmedabad,Marine,5,Juli,Renewal,Mahendara,2.4142E+18,14025,22-10-2019
+2000001589,16-01-2020,Brokerage,Ahmedabad,PB Client Network (GNB Inward),4,Gilbert,Renewal,Shruti,32099602-01,1112,23-01-2019
+2000001598,16-01-2020,Brokerage,Ahmedabad,Employee Benefits (EB),6,Ketan Jain,Renewal,Janish,2.9992E+18,4302,01-11-2019
+2000001604,16-01-2020,Brokerage,Ahmedabad,Liability,13,Vidit Shah,Cross Sell,Aman Tyagi,'2302003268,21875,11-02-2019

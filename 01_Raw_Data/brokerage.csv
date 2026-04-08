@@ -1,0 +1,962 @@
+client_name,policy_number,policy_status,policy_start_date,policy_end_date,product_group,Account Exe ID,Exe Name,branch_name,solution_group,income_class,Amount,income_due_date,revenue_transaction_type,renewal_status,lapse_reason,last_updated_date
+A,2414 2022 4088 1000 000,Active,19-04-2018,18-04-2019,Marine,1,Vinay,Ahmedabad,Marine,Renewal,32186.72,19-04-2018,Brokerage,Inception,,22-01-2020
+Sanjay Trivedi,2.41E+18,Active,01-05-2019,30-04-2020,Marine,2,Abhinav Shivam,Ahmedabad,Marine,New,23590.71,01-05-2019,Brokerage,Inception,,22-01-2020
+Anita Sethi,0655001825 01,Inactive,13-09-2018,12-09-2019,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Renewal,4611.96,13-09-2018,Brokerage,Inception,,22-01-2020
+Ashok Chatterjee,12139156,Active,13-09-2019,12-09-2020,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Renewal,4975.41,13-09-2019,Brokerage,Renewal,,22-01-2020
+Rani Agarwal,2200090892,Active,06-11-2018,05-11-2019,Miscellaneous,1,Vinay,Ahmedabad,Liability,Renewal,1198.88,06-11-2018,Brokerage,Inception,,22-01-2020
+Arjun Rao,237164239 00,Active,01-02-2019,31-01-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,1825.43,01-02-2019,Brokerage,Inception,,22-01-2020
+Anil Naik,4101190700000015-00,Active,25-06-2019,24-06-2020,Employee Benefits,2,Abhinav Shivam,Ahmedabad,Employee Benefits (EB),New,79833.6,25-06-2019,Brokerage,Endorsement,,22-01-2020
+Simran Trivedi,4101190700000015-00,Active,25-06-2019,24-06-2020,Employee Benefits,2,Abhinav Shivam,Ahmedabad,Employee Benefits (EB),New,11435.86,02-08-2019,Brokerage ,Endorsement,,22-01-2020
+Dhruv Chopra,2250010276,Active,25-04-2018,24-04-2019,Miscellaneous,1,Vinay,Ahmedabad,Employee Benefits (EB),Renewal,847.38,25-04-2018,Brokerage,Inception,,22-01-2020
+Jaya Chopra,2414 2022 1261 2200 000,Inactive,25-04-2018,24-04-2019,Marine,1,Vinay,Ahmedabad,Marine,Renewal,9900,25-04-2018,Brokerage,Inception,,22-01-2020
+Kiran Goyal,2414 2026 2374 7800 000,Active,11-01-2019,10-01-2020,Marine,1,Vinay,Ahmedabad,Marine,Renewal,8250,11-01-2019,Brokerage,Renewal,,22-01-2020
+Pravin Sengupta,9.10E+13,Active,25-04-2018,24-04-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,4093.2,25-04-2018,Brokerage,Inception,,22-01-2020
+Snehal Das,2280062933,Active,20-05-2019,19-05-2020,Miscellaneous,1,Vinay,Ahmedabad,Liability,Renewal,8117,20-01-2020,Brokerage,Renewal,,22-01-2020
+Rajesh Malhotra,LWC/I2568913/71/05/006144,Inactive,20-05-2018,19-05-2019,Miscellaneous,1,Vinay,Ahmedabad,Liability,Renewal,6101.25,20-05-2018,Brokerage,Inception,,22-01-2020
+Archana Bhatia,0865074115 01,Active,12-06-2018,11-06-2019,Marine,9,Manish Sharma,Ahmedabad,Small Medium Enterpries (SME),Renewal,1980,12-06-2018,Brokerage,Endorsement,,22-01-2020
+Ashok Reddy,0865074115 01,Active,12-06-2018,11-06-2019,Marine,9,Manish Sharma,Ahmedabad,Small Medium Enterpries (SME),Renewal,1980,10-01-2019,Brokerage ,Endorsement,,22-01-2020
+Madhuri Bhatia,3.11E+18,Active,26-08-2019,25-08-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,2089.25,26-08-2019,Brokerage,Inception,,22-01-2020
+Pranav Mishra,OG-19-2202-1018-00000055,Active,01-01-2019,31-12-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,21768.61,01-01-2019,Brokerage,Inception,,22-01-2020
+Rina Goyal,OG-19-2202-3383-00000009,Active,01-01-2019,31-12-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,12019.2,01-01-2019,Brokerage,Inception,,22-01-2020
+Geeta Gupta,640002371,Active,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,66937.72,01-04-2018,Brokerage,Inception,,22-01-2020
+Sudhir Roy,0830017443 01,Active,11-05-2018,10-05-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,78374.84,11-05-2018,Brokerage,Inception,,22-01-2020
+Rani Kaul,180876-0000-00,Inactive,01-04-2018,31-03-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,60000,01-04-2018,Brokerage,Inception,,22-01-2020
+Kavita Sharma,180876-0000-01,Active,01-04-2019,31-03-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,60000,01-04-2019,Brokerage,Renewal,,22-01-2020
+Shikha Sethi,180876-0000-01,Active,01-04-2019,31-03-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,60000,01-04-2019,Brokerage,Renewal,,22-01-2020
+Amit Bhargava,2250002346,Active,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,4715.63,01-04-2018,Brokerage,Inception,,22-01-2020
+Alka Goel,3.12E+18,Active,01-04-2018,31-03-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,22755.25,01-04-2018,Brokerage,Inception,,22-01-2020
+Harish Sharma,P0119200001/9999/100017,Active,01-04-2018,31-03-2019,Liability,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,26443.63,01-04-2018,Brokerage,Inception,,22-01-2020
+Gaurav Goel,0865078325 00,Inactive,06-04-2018,05-04-2019,Marine,1,Vinay,Ahmedabad,Marine,Renewal,49499.84,06-04-2018,Brokerage,Endorsement,,22-01-2020
+Ravi Naik,0865078325 00,Inactive,06-04-2018,05-04-2019,Marine,1,Vinay,Ahmedabad,Marine,Renewal,,11-10-2018,Brokerage ,Endorsement,,22-01-2020
+Kamlesh Prasad,0865078325 00,Inactive,06-04-2018,05-04-2019,Marine,1,Vinay,Ahmedabad,Marine,Renewal,16500,17-01-2019,Brokerage ,Endorsement,,22-01-2020
+Nikhil Verma,'0865078325 01,Active,06-04-2019,05-04-2020,Marine,1,Vinay,Ahmedabad,Marine,Renewal,26400,06-04-2019,Brokerage,Renewal,,22-01-2020
+Vaishali Desai,0865080591 00,Active,20-08-2018,19-08-2019,Marine,1,Vinay,Ahmedabad,Marine,Renewal,3300,20-08-2018,Brokerage,Inception,,22-01-2020
+Atul Naik,0865081032 00,Active,11-09-2018,10-09-2019,Marine,1,Vinay,Ahmedabad,Marine,Renewal,1072.5,11-09-2018,Brokerage,Inception,,22-01-2020
+Meena Bhargava,'310304111710000871,Active,27-03-2018,26-03-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,4002.46,27-03-2018,Brokerage,Inception,,22-01-2020
+Mona Chopra,3.10E+17,Active,14-08-2018,13-08-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,1374.25,14-08-2018,Brokerage,Inception,,22-01-2020
+Mohit Tiwari,3.10E+18,Active,27-03-2018,26-03-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Cross Sell,566.25,27-03-2018,Brokerage,Inception,,22-01-2020
+Tina Dutta,'310304591810000063,Active,14-08-2018,13-08-2019,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,Renewal,445,14-08-2018,Brokerage,Inception,,22-01-2020
+Hemant Das,'310300111910000401,Active,01-09-2019,31-08-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,13114.95,01-09-2019,Brokerage,Renewal,,22-01-2020
+Sanjana Bhargava,3.10E+17,Inactive,01-09-2018,31-08-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,2049.42,01-09-2018,Brokerage,Inception,,22-01-2020
+Kamlesh Trivedi,301002850,Active,01-08-2018,31-07-2019,Liability,6,Ketan Jain,Ahmedabad,Liability,Renewal,61425,01-08-2018,Brokerage,Inception,,22-01-2020
+Nikita Tiwari,2.41E+18,Active,27-09-2018,26-09-2019,Marine,1,Vinay,Ahmedabad,Marine,Renewal,1650,27-09-2018,Brokerage,Inception,,22-01-2020
+Kapil Kapoor,0830018899 01,Inactive,01-03-2018,28-02-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,16335,01-03-2018,Brokerage,Inception,,22-01-2020
+Harish Rana,OG-19-2202-1018-00000059,Active,01-03-2019,29-02-2020,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,18562.5,01-03-2019,Brokerage,Renewal,,22-01-2020
+Nikhil Pandit,OG-19-2001-3315-00000015,Active,02-04-2018,01-04-2019,Liability,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,0,02-08-2018,Brokerage,Inception,,22-01-2020
+Vivek Rana,4005/134645920/01/000,Inactive,29-06-2018,28-06-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,4330.05,29-06-2018,Brokerage,Endorsement,,22-01-2020
+Hemant Nair,4005/134645920/01/000,Inactive,29-06-2018,28-06-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,,05-07-2018,Brokerage ,Endorsement,,22-01-2020
+Veena Bhargava,4005/134645920/02/000,Active,29-06-2019,28-06-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,8604.68,29-06-2019,Brokerage,Renewal,,22-01-2020
+Shivam Shah,4016/133979727/01/000,Inactive,29-06-2018,28-06-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,41313.6,29-06-2018,Brokerage,Endorsement,,22-01-2020
+Bhavna Bhandari,4016/133979727/01/000,Inactive,29-06-2018,28-06-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,,31-07-2018,Brokerage ,Endorsement,,22-01-2020
+Tarun Shah,4016/133979727/02/000,Active,29-06-2019,28-06-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,74672.78,29-06-2019,Brokerage,Renewal,,22-01-2020
+Hemant Chauhan,0865078861 00,Active,03-01-2018,02-01-2019,Marine,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,66622.35,03-01-2018,Brokerage,Inception,,22-01-2020
+Geeta Verma,4066/130374729/01/000,Active,01-04-2018,31-03-2019,Liability,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,0,01-04-2018,Brokerage,Inception,,22-01-2020
+Ashok Patel,2002/160040691/00/000,Inactive,01-11-2018,31-10-2019,Marine,1,Vinay,Ahmedabad,Marine,Renewal,92812.5,01-11-2018,Brokerage,Renewal,,22-01-2020
+Gayatri Reddy,2002/160040691/01/000,Active,14-11-2019,13-11-2020,Marine,1,Vinay,Ahmedabad,Marine,Renewal,18562.5,14-11-2019,Brokerage,Renewal,,22-01-2020
+Snehal Patel,2002/E/107876781/03/000,Active,08-10-2018,07-10-2019,Marine,1,Vinay,Ahmedabad,Marine,Renewal,3526.88,08-10-2019,Brokerage,Renewal,,22-01-2020
+Vivek Yadav,2002/E/1078781/02/000,Active,08-10-2017,07-10-2018,Marine,5,Juli,Ahmedabad,Marine,Renewal,34950.98,08-10-2017,Brokerage,Inception,,22-01-2020
+Kiran Saxena,22214272,Active,01-11-2017,31-10-2018,Marine,5,Juli,Ahmedabad,Marine,Renewal,55687.5,01-11-2017,Brokerage,Inception,,22-01-2020
+Uday Reddy,'14220011190100000062,Active,12-04-2019,11-04-2020,Fire,11,Raju Kumar,Ahmedabad,Property / BI,Renewal,5187.31,12-04-2019,Brokerage,Inception,,22-01-2020
+Anita Pandit,2690000138 04,Active,25-08-2018,24-08-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Cross Sell,2116.48,25-08-2018,Brokerage,Inception,,22-01-2020
+Hina Malhotra,2690000337 03,Active,30-11-2018,29-11-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,810.28,30-11-2018,Brokerage,Inception,,22-01-2020
+Alka Patel,30003393,Active,01-05-2019,30-04-2020,Miscellaneous,6,Ketan Jain,Ahmedabad,Trade Credit &amp; Political Risk,New,379836.08,01-05-2019,Brokerage,Inception,,22-01-2020
+Shruti Roy,OG-18-2202-3315-00000028,Active,31-03-2019,30-03-2020,Liability,6,Ketan Jain,Ahmedabad,Liability,Cross Sell,28087.5,31-03-2019,Brokerage,Inception,,22-01-2020
+Archana Singh,'23060036180200000022,Active,01-01-2019,31-12-2019,Liability,1,Vinay,Ahmedabad,Liability,Renewal,137500,01-01-2019,Brokerage,Inception,,22-01-2020
+Mukul Goyal,'2999202466609300000,Active,04-10-2018,03-10-2019,Liability,1,Vinay,Ahmedabad,Liability,Cross Sell,18750,04-10-2018,Brokerage,Inception,,22-01-2020
+Namita Bajaj,'2999203175548500000,Active,02-12-2019,01-12-2020,Liability,1,Vinay,Ahmedabad,Liability,Renewal,8125,02-12-2019,Brokerage,Inception,,22-01-2020
+Nikita Joshi,141400/11/2018/737,Active,01-03-2018,28-02-2019,Fire,5,Juli,Ahmedabad,Small Medium Enterpries (SME),New,116487.04,01-03-2018,Brokerage,Inception,,22-01-2020
+Tejas Shah,141400/11/2018/738,Active,01-03-2018,28-02-2019,Fire,5,Juli,Ahmedabad,Small Medium Enterpries (SME),New,2988.62,01-03-2018,Brokerage,Inception,,22-01-2020
+Kavita Rao,141400/44/2018/101,Active,01-03-2018,28-02-2019,Miscellaneous,5,Juli,Ahmedabad,Small Medium Enterpries (SME),New,14627.5,01-03-2018,Brokerage,Inception,,22-01-2020
+Hemant Shah,141400/44/2018/102,Active,01-03-2018,28-02-2019,Miscellaneous,5,Juli,Ahmedabad,Small Medium Enterpries (SME),New,2020.5,01-03-2018,Brokerage,Inception,,22-01-2020
+Prabhat Naik,141400/48/2018/2149,Active,01-03-2018,28-02-2019,Miscellaneous,5,Juli,Ahmedabad,Small Medium Enterpries (SME),New,625.13,01-03-2018,Brokerage,Inception,,22-01-2020
+Nikhil Tiwari,141400/48/2018/2150,Active,01-03-2018,28-02-2019,Miscellaneous,5,Juli,Ahmedabad,Small Medium Enterpries (SME),Cross Sell,417,01-03-2018,Brokerage,Inception,,22-01-2020
+Neha Trivedi,141400/48/2018/2237,Active,01-03-2018,28-02-2019,Miscellaneous,5,Juli,Ahmedabad,Small Medium Enterpries (SME),New,687.63,01-03-2018,Brokerage,Inception,,22-01-2020
+Shruti Agarwal,141400/48/2018/2238,Active,01-03-2018,28-02-2019,Liability,5,Juli,Ahmedabad,Small Medium Enterpries (SME),New,374.88,01-03-2018,Brokerage,Inception,,22-01-2020
+Kiran Desai,141400/48/2018/2239,Active,01-03-2018,28-02-2019,Miscellaneous,5,Juli,Ahmedabad,Small Medium Enterpries (SME),New,3537.25,01-03-2018,Brokerage,Inception,,22-01-2020
+Kanchan Iyer,LWC/I2548354/71/02/005537,Active,01-03-2018,28-02-2019,Miscellaneous,5,Juli,Ahmedabad,Small Medium Enterpries (SME),New,8881.5,01-03-2018,Brokerage,Inception,,22-01-2020
+Bhavna Kapoor,'91000036191500000014,Active,23-05-2019,22-05-2020,Liability,1,Vinay,Ahmedabad,Liability,Renewal,28125,23-05-2019,Brokerage,Inception,,22-01-2020
+Ritika Reddy,'91000036191700000002,Active,23-05-2019,22-05-2020,Liability,1,Vinay,Ahmedabad,Liability,Renewal,131250,23-05-2019,Brokerage,Inception,,22-01-2020
+Suresh Das,302102591,Inactive,05-09-2018,04-09-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,6058.38,05-09-2018,Brokerage,Inception,,22-01-2020
+Shikha Chauhan,668111383,Active,17-10-2017,16-10-2018,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,29608.99,17-10-2017,Brokerage,Inception,,22-01-2020
+Hemant Dutta,668111383,Active,17-10-2017,16-10-2018,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,29638.4,17-10-2017,Brokerage,Inception,,22-01-2020
+Dinesh Pandey,668111383,Active,17-10-2017,16-10-2018,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,237107.16,17-10-2017,Brokerage,Inception,,22-01-2020
+Archana Iyer,0668111383 05,Active,17-10-2018,16-10-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,295501.76,17-10-2018,Brokerage,Inception,,22-01-2020
+Deepak Menon,2250015394,Active,05-09-2019,04-09-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,5612.25,05-09-2019,Brokerage,Renewal,,22-01-2020
+Vivek Gupta,2309002394,Active,01-01-2018,31-12-2018,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,30875,01-01-2018,Brokerage,Inception,,22-01-2020
+Rina Shah,3.11E+18,Active,26-08-2019,25-08-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,7022.25,26-08-2019,Brokerage,Inception,,22-01-2020
+Uday Prasad,OG-19-2202-1018-00000053,Active,01-01-2019,31-12-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,77787.36,01-01-2019,Brokerage,Inception,,22-01-2020
+Nitin Kapoor,OG-19-2202-3383-00000008,Active,01-01-2019,31-12-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,30048.08,01-01-2019,Brokerage,Inception,,22-01-2020
+Harish Kaul,PROHLN000242106,Active,16-09-2019,15-09-2020,Employee Benefits,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,7690.95,16-09-2019,Brokerage,Inception,,22-01-2020
+Neeraj Arora,1.20E+19,Inactive,10-08-2018,09-08-2019,Miscellaneous,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,86400,10-08-2018,Brokerage,Inception,,22-01-2020
+Mukul Kumar,1.20E+19,Inactive,10-08-2018,09-08-2019,Miscellaneous,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,345705,10-08-2018,Brokerage,Inception,,22-01-2020
+Gauri Naik,1.20E+19,Active,10-08-2019,09-08-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,77400,10-08-2019,Brokerage,Renewal,,22-01-2020
+Harish Menon,1.20E+19,Active,10-08-2019,09-08-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,302811.08,10-08-2019,Brokerage,Renewal,,22-01-2020
+Mohit Gupta,P0319200002/9999/100065,Active,01-07-2018,30-06-2019,Liability,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,1183.38,01-07-2018,Brokerage,Inception,,22-01-2020
+Amit Arora,2018-F0541357-FRE,Active,16-09-2018,15-09-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,33977.82,16-09-2018,Brokerage,Inception,,22-01-2020
+Nikita Pandit,'11120044170300000009,Active,27-11-2017,26-11-2020,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,25303.02,27-05-2018,Brokerage,Inception,,22-01-2020
+Vikas Gupta,'11120044170300000009,Active,27-11-2017,26-11-2020,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,25302.96,27-05-2019,Brokerage,Inception,,22-01-2020
+Kamlesh Pillai,'11120044170300000009,Active,27-11-2017,26-11-2020,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,25302.96,27-08-2019,Brokerage,Inception,,22-01-2020
+Umesh Agarwal,'11120044170300000009,Active,27-11-2017,26-11-2020,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,25302.96,27-11-2019,Brokerage,Inception,,22-01-2020
+Ankur Gandhi,'11120044170300000009,Active,27-11-2017,26-11-2020,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,25302.96,27-02-2020,Brokerage,Inception,,22-01-2020
+Dinesh Kaul,'11120044170300000009,Active,27-11-2017,26-11-2020,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,25302.96,27-05-2020,Brokerage,Inception,,22-01-2020
+Ankur Naik,'11120044170300000009,Active,27-11-2017,26-11-2020,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,25302.96,27-08-2018,Brokerage,Inception,,22-01-2020
+BB,'11120044170300000009,Active,27-11-2017,26-11-2020,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,25302.96,27-11-2018,Brokerage,Inception,,22-01-2020
+BB,'11120044170300000009,Active,27-11-2017,26-11-2020,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,25302.96,27-02-2019,Brokerage,Inception,,22-01-2020
+BB,'11120044170300000009,Active,27-11-2017,26-11-2020,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,25303.02,27-02-2018,Brokerage,Inception,,22-01-2020
+BB,'11120044170300000009,Active,27-11-2017,26-11-2020,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,39952.08,27-11-2017,Brokerage,Inception,,22-01-2020
+BB,8540162,Inactive,27-02-2018,26-02-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,562.24,27-02-2018,Brokerage,Inception,,22-01-2020
+BB,'0000000008540162-01,Active,27-02-2019,26-02-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,628.7,02-03-2019,Brokerage,Renewal,,22-01-2020
+BB,304001926,Inactive,01-04-2018,31-03-2019,Liability,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,5075.5,01-04-2018,Brokerage,Inception,,22-01-2020
+BB,304003761,Active,01-04-2019,31-03-2020,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,5206,01-04-2019,Brokerage,Renewal,,22-01-2020
+Sanjay Trivedi,FM00104260000100,Active,29-01-2019,28-01-2020,Fire,13,Vididt Saha,Ahmedabad,Property / BI,New,5462.5,29-01-2019,Brokerage,Inception,,22-01-2020
+Anita Sethi,2412/202063061201000,Active,07-01-2019,06-01-2020,Marine,1,Vinay,Ahmedabad,Marine,Renewal,13612.5,07-01-2019,Brokerage,Endorsement,,22-01-2020
+Ashok Chatterjee,2412/202063061201000,Active,07-01-2019,06-01-2020,Marine,1,Vinay,Ahmedabad,Marine,Renewal,6991.55,04-04-2019,Brokerage ,Endorsement,,22-01-2020
+Rani Agarwal,2302003012,Active,27-08-2018,26-08-2019,Liability,1,Vinay,Ahmedabad,Liability,Renewal,13750,27-08-2018,Brokerage,Inception,,22-01-2020
+Arjun Rao,41045400,Active,19-03-2019,18-03-2020,Liability,13,Vididt Saha,Ahmedabad,Liability,New,70125,19-03-2019,Brokerage,Inception,,22-01-2020
+Anil Naik,41045403,Active,19-03-2019,18-03-2020,Liability,13,Vididt Saha,Ahmedabad,Liability,New,70125,19-03-2019,Brokerage,Inception,,22-01-2020
+Simran Trivedi,2018-C1742872-MLO,Inactive,01-04-2018,31-03-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,208122.92,01-04-2018,Brokerage,Inception,,22-01-2020
+Dhruv Chopra,8502066,Inactive,01-03-2018,28-02-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,45375.15,01-03-2018,Brokerage,Endorsement,,22-01-2020
+Jaya Chopra,8502066,Inactive,01-03-2018,28-02-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,18150,03-01-2019,Brokerage ,Endorsement,,22-01-2020
+Kiran Goyal,0000000008502066-01,Active,01-03-2019,30-06-2020,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,45375.15,01-03-2019,Brokerage,Endorsement,,22-01-2020
+Pravin Sengupta,0000000008502066-01,Active,01-03-2019,29-02-2020,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,45375,20-07-2019,Brokerage ,Endorsement,,22-01-2020
+Snehal Das,0000000008502066-01,Active,01-03-2019,29-02-2020,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,0,,Brokerage ,Endorsement,,22-01-2020
+Rajesh Malhotra,3.00E+18,Inactive,01-11-2018,31-10-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,6157.88,01-11-2018,Brokerage,Endorsement,,22-01-2020
+Archana Bhatia,3.00E+18,Inactive,01-11-2018,31-10-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,,05-12-2018,Brokerage ,Endorsement,,22-01-2020
+Ashok Reddy,3.00E+18,Inactive,01-11-2018,31-10-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,113.48,08-02-2019,Brokerage ,Endorsement,,22-01-2020
+Madhuri Bhatia,3.00E+18,Active,01-11-2019,31-10-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,4302.3,01-11-2019,Brokerage,Renewal,,22-01-2020
+Pranav Mishra,4101190600000030-00,Active,17-05-2019,16-05-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,52500,17-05-2019,Brokerage,Inception,,22-01-2020
+Rina Goyal,OG-19-2202-0425-00000018,Inactive,01-07-2018,30-06-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,1147.82,30-06-2019,Brokerage,Inception,,22-01-2020
+Geeta Gupta,OG-19-2202-3304-00000007,Inactive,01-07-2018,30-06-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1896.63,01-07-2018,Brokerage,Inception,,22-01-2020
+Sudhir Roy,OG-19-2202-3315-00000007-1,Inactive,02-07-2018,30-06-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,0,30-06-2019,Brokerage,Inception,,22-01-2020
+Rani Kaul,OG-19-2202-3383-00000003,Inactive,01-07-2018,30-06-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,48125,01-07-2018,Brokerage,Inception,,22-01-2020
+Kavita Sharma,OG-19-2202-4002-00000009,Inactive,01-07-2018,30-06-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,13560.92,01-07-2018,Brokerage,Inception,,22-01-2020
+Shikha Sethi,OG-19-2202-4004-00000034,Inactive,01-07-2018,30-06-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,55052.69,01-07-2018,Brokerage,Inception,,22-01-2020
+Amit Bhargava,OG-19-2202-4004-00000038,Inactive,01-07-2018,30-06-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,14131.43,01-07-2018,Brokerage,Inception,,22-01-2020
+Alka Goel,OG-19-2202-4010-00000762,Inactive,01-07-2018,30-06-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,3125,01-07-2018,Brokerage,Inception,,22-01-2020
+Harish Sharma,OG-19-2202-4010-00000789,Inactive,01-07-2018,30-06-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1125,01-07-2018,Brokerage,Inception,,22-01-2020
+Gaurav Goel,OG-19-2202-9931-00001420,Inactive,01-07-2018,30-06-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,4706.25,01-07-2018,Brokerage,Inception,,22-01-2020
+Ravi Naik,OG-20-2202-0425-00000017,Active,01-07-2019,30-06-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,825,01-07-2019,Brokerage,Renewal,,22-01-2020
+Kamlesh Prasad,OG-20-2202-3304-00000009,Active,01-07-2019,30-06-2020,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1896.63,01-07-2019,Brokerage,Renewal,,22-01-2020
+Nikhil Verma,OG-20-2202-3315-00000012,Active,02-08-2019,01-08-2020,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,19181.25,02-08-2019,Brokerage,Renewal,,22-01-2020
+Vaishali Desai,OG-20-2202-3383-00000002,Active,01-07-2019,30-06-2020,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,42500,01-07-2019,Brokerage,Renewal,,22-01-2020
+Atul Naik,OG-20-2202-4002-00000010,Active,01-07-2019,30-06-2020,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,10917.07,01-07-2019,Brokerage,Renewal,,22-01-2020
+Meena Bhargava,OG-20-2202-4004-00000062,Active,01-07-2019,30-06-2020,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,60713.1,01-07-2019,Brokerage,Renewal,,22-01-2020
+Mona Chopra,OG-20-2202-4004-00000064,Active,01-07-2019,30-06-2020,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,12349.97,01-07-2019,Brokerage,Renewal,,22-01-2020
+Mohit Tiwari,OG-20-2202-4010-00000869,Active,01-07-2019,30-06-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,3375,01-07-2019,Brokerage,Renewal,,22-01-2020
+Tina Dutta,OG-20-2202-4010-00000905,Active,01-07-2019,30-06-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,875,01-07-2019,Brokerage,Renewal,,22-01-2020
+Hemant Das,OG-20-2202-9931-00032558,Active,01-07-2019,30-06-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1556.25,01-07-2019,Brokerage,Renewal,,22-01-2020
+Sanjana Bhargava,301004728,Inactive,30-09-2018,29-09-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,186534.13,30-09-2018,Brokerage,Inception,,22-01-2020
+Kamlesh Trivedi,0301004728-2019,Active,30-09-2019,29-09-2020,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,202350,30-09-2019,Brokerage,Renewal,,22-01-2020
+Nikita Tiwari,600010004,Inactive,16-03-2018,15-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,750.63,16-03-2018,Brokerage,Inception,,22-01-2020
+Kapil Kapoor,0600010004 01,Inactive,16-03-2019,15-04-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,63.75,16-03-2019,Brokerage,Renewal,,22-01-2020
+Harish Rana,0600010004 02,Active,16-04-2019,15-04-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1556.5,16-04-2019,Brokerage,Renewal,,22-01-2020
+Nikhil Pandit,640002231,Inactive,02-04-2018,01-04-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,46087.63,02-04-2018,Brokerage,Inception,,22-01-2020
+Vivek Rana,0640002231 03,Inactive,02-04-2019,16-04-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,4362.38,02-04-2019,Brokerage,Renewal,,22-01-2020
+Hemant Nair,0640002231 04,Active,17-04-2019,01-04-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,65370,17-04-2019,Brokerage,Renewal,,22-01-2020
+Veena Bhargava,22515779,Active,30-09-2019,29-09-2020,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,44259.67,30-09-2019,Brokerage,Inception,,22-01-2020
+Shivam Shah,22531899,Active,27-10-2019,26-10-2020,Marine,3,Animesh Rawat,Ahmedabad,Marine,Renewal,35112,27-10-2019,Brokerage,Renewal,,22-01-2020
+Bhavna Bhandari,22531899,Active,27-10-2019,26-10-2020,Marine,3,Animesh Rawat,Ahmedabad,Marine,Renewal,15048,27-10-2019,Brokerage,Renewal,,22-01-2020
+Tarun Shah,32099602,Inactive,23-01-2018,22-01-2019,Engineering,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,1072.34,23-01-2018,Brokerage,Inception,,22-01-2020
+Hemant Chauhan,32099602-01,Active,23-01-2019,22-01-2020,Engineering,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1111.77,23-01-2019,Brokerage,Renewal,,22-01-2020
+Geeta Verma,3.21E+23,Inactive,31-07-2018,30-07-2019,Engineering,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,27057.2,31-07-2018,Brokerage,Inception,,22-01-2020
+Ashok Patel,3.21E+23,Active,31-07-2019,30-07-2020,Engineering,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,87500,31-07-2019,Brokerage,Renewal,,22-01-2020
+Gayatri Reddy,APG/I2064820/71/11/006144,Inactive,27-11-2018,26-11-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,7647.1,27-11-2018,Brokerage,Inception,,22-01-2020
+Snehal Patel,APG/I2064820/71/11/006343,Active,27-11-2019,26-11-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,12491.85,27-11-2019,Brokerage,Renewal,,22-01-2020
+Vivek Yadav,GHS/Q0226519/71,Inactive,27-11-2018,26-11-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,30620.9,27-11-2018,Brokerage,Inception,,22-01-2020
+Kiran Saxena,GHS/Q1166066/71,Active,27-11-2019,26-11-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,61342.1,27-11-2019,Brokerage,Renewal,,22-01-2020
+Uday Reddy,LWC/I2328626/71/04/005537,Active,13-04-2018,12-04-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,3125,13-04-2018,Brokerage,Inception,,22-01-2020
+Anita Pandit,OG-18-2202-1018-00000028,Active,27-10-2017,26-10-2018,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,62714.03,27-10-2017,Brokerage,Inception,,22-01-2020
+Hina Malhotra,OG-19-2202-1018-00000047,Inactive,27-10-2018,26-10-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,85800,27-10-2018,Brokerage,Endorsement,,22-01-2020
+Alka Patel,OG-19-2202-1018-00000047,Inactive,27-10-2018,26-10-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,21450,27-10-2018,Brokerage,Endorsement,,22-01-2020
+Shruti Roy,OG-19-2202-1018-00000047,Inactive,27-10-2018,26-10-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,71765.36,26-10-2019,Brokerage ,Endorsement,,22-01-2020
+Archana Singh,OG-19-2202-1018-00000047,Inactive,27-10-2018,26-10-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,17941.34,26-10-2019,Brokerage ,Endorsement,,22-01-2020
+Mukul Goyal,4016 X 166425941 00 000,Active,22-02-2019,21-02-2020,Employee Benefits,6,Ketan Jain,Ahmedabad,Employee Benefits (EB),New,44999.85,21-02-2020,Brokerage,Inception,,22-01-2020
+Namita Bajaj,2309004639,Active,30-09-2019,29-09-2025,Liability,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,47500,30-09-2019,Brokerage,Inception,,22-01-2020
+Nikita Joshi,43170512,Inactive,06-02-2019,06-08-2019,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,6183.87,06-02-2019,Brokerage,Inception,,22-01-2020
+Tejas Shah,43193940,Active,07-08-2019,06-02-2020,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,6183.87,07-08-2019,Brokerage,Renewal,,22-01-2020
+Kavita Rao,141400/48/2020/1134,Active,08-11-2019,07-11-2020,Liability,2,Abhinav Shivam,Ahmedabad,Liability,New,13200,08-11-2019,Brokerage,Inception,,22-01-2020
+Hemant Shah,2.31E+19,Active,22-02-2019,21-02-2020,Fire,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),New,16258,22-02-2019,Brokerage,Inception,,22-01-2020
+Prabhat Naik,2.31E+19,Active,28-02-2019,27-02-2020,Fire,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),New,8227.79,28-02-2019,Brokerage,Endorsement,,22-01-2020
+Nikhil Tiwari,2.31E+19,Active,28-02-2019,27-02-2020,Fire,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),New,2925.72,12-06-2019,Brokerage ,Endorsement,,22-01-2020
+Neha Trivedi,2.31E+19,Active,28-02-2019,27-02-2020,Fire,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),New,2925.72,12-06-2019,Brokerage ,Endorsement,,22-01-2020
+Shruti Agarwal,2.31E+19,Active,28-02-2019,27-02-2020,Fire,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),New,5240.78,12-07-2019,Brokerage ,Endorsement,,22-01-2020
+Kiran Desai,3.10E+17,Active,08-11-2019,07-11-2020,Fire,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),New,17232.75,08-11-2019,Brokerage,Inception,,22-01-2020
+Kanchan Iyer,3.10E+17,Active,08-11-2019,07-11-2020,Liability,2,Abhinav Shivam,Ahmedabad,Liability,New,6250,08-11-2019,Brokerage,Inception,,22-01-2020
+Bhavna Kapoor,9.90E+19,Active,08-09-2019,07-09-2020,Fire,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),New,72138.93,08-09-2019,Brokerage,Inception,,22-01-2020
+Ritika Reddy,9.90E+19,Active,08-09-2019,07-09-2020,Fire,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),New,43032.54,08-09-2019,Brokerage,Inception,,22-01-2020
+Suresh Das,9.90E+19,Active,08-09-2019,07-09-2020,Miscellaneous,2,Abhinav Shivam,Ahmedabad,Property / BI,New,11550,08-09-2019,Brokerage,Inception,,22-01-2020
+Shikha Chauhan,9.90E+19,Active,08-09-2019,07-09-2020,Miscellaneous,2,Abhinav Shivam,Ahmedabad,Property / BI,New,7700,08-09-2019,Brokerage,Inception,,22-01-2020
+Hemant Dutta,9.90E+19,Active,08-09-2019,07-09-2020,Miscellaneous,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),New,14461.25,08-09-2019,Brokerage,Endorsement,,22-01-2020
+Dinesh Pandey,9.90E+19,Active,08-09-2019,07-09-2020,Miscellaneous,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),New,13153.63,10-10-2019,Brokerage ,Endorsement,,22-01-2020
+Archana Iyer,9.90E+19,Inactive,04-04-2018,05-07-2024,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",New,0,04-04-2018,Brokerage,Lapse,OTHR – Other,22-01-2020
+Deepak Menon,9.90E+19,Inactive,22-06-2018,21-09-2019,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,15625,22-06-2018,Brokerage,Lapse,MERC – Merged with new combined policy,22-01-2020
+Vivek Gupta,9.90E+19,Active,25-04-2019,24-04-2021,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,134736.13,25-04-2019,Brokerage,Inception,,22-01-2020
+Rina Shah,9.90E+19,Active,11-09-2019,10-09-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,32584.88,11-09-2019,Brokerage,Inception,,22-01-2020
+Uday Prasad,9.90E+19,Active,22-09-2019,21-03-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,8044.5,22-09-2019,Brokerage,Inception,,22-01-2020
+Nitin Kapoor,'0000000008539844-01,Inactive,27-02-2019,26-02-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,2141.55,27-02-2019,Brokerage,Lapse,OTHR – Other,22-01-2020
+Harish Kaul,00000000085/39886,Active,27-02-2018,26-02-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,2486.07,27-02-2018,Brokerage,Inception,,22-01-2020
+Neeraj Arora,8539944,Inactive,27-02-2018,26-02-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,6653.1,27-02-2018,Brokerage,Inception,,22-01-2020
+Mukul Kumar,'0000000008539944-01,Active,27-02-2019,26-02-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,6979.74,27-02-2019,Brokerage,Renewal,,22-01-2020
+Gauri Naik,00000000086/43966,Active,27-02-2018,26-02-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Cross Sell,2283.33,27-02-2018,Brokerage,Inception,,22-01-2020
+Harish Menon,41045915,Active,30-03-2019,29-03-2020,Liability,6,Ketan Jain,Ahmedabad,Liability,New,14107.5,30-03-2019,Brokerage,Inception,,22-01-2020
+Mohit Gupta,2690000174,Active,31-12-2017,30-12-2018,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,Renewal,2535.87,31-12-2017,Brokerage,Inception,,22-01-2020
+Amit Arora,300004329,Inactive,31-01-2018,30-01-2019,Liability,1,Vinay,Ahmedabad,Liability,Renewal,125000,31-01-2018,Brokerage,Inception,,22-01-2020
+Nikita Pandit,'0300004329,Active,31-01-2019,30-01-2020,Liability,1,Vinay,Ahmedabad,Liability,Renewal,125000,31-01-2019,Brokerage,Renewal,,22-01-2020
+Vikas Gupta,304001755,Inactive,31-01-2018,30-01-2019,Liability,1,Vinay,Ahmedabad,Liability,Renewal,80000,31-01-2018,Brokerage,Inception,,22-01-2020
+Kamlesh Pillai,304001755,Inactive,31-01-2018,30-01-2019,Liability,1,Vinay,Ahmedabad,Liability,Renewal,320000,31-01-2018,Brokerage,Inception,,22-01-2020
+Umesh Agarwal,'0304001755,Active,31-01-2019,30-01-2020,Liability,1,Vinay,Ahmedabad,Liability,Renewal,320000,31-01-2019,Brokerage,Renewal,,22-01-2020
+Ankur Gandhi,640001622,Inactive,31-12-2017,30-12-2018,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,Renewal,211206.7,31-12-2017,Brokerage,Lapse,OTHR – Other,22-01-2020
+Dinesh Kaul,655001664,Inactive,01-03-2018,28-02-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,275569.44,01-03-2019,Brokerage,Inception,,22-01-2020
+Ankur Naik,'0655001664 03,Active,01-03-2019,29-02-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,275569.44,01-03-2019,Brokerage,Renewal,,22-01-2020
+ABC,0830016972 02,Active,01-03-2019,29-02-2020,Marine,1,Vinay,Ahmedabad,Marine,Renewal,50332.73,01-03-2019,Brokerage,Renewal,,22-01-2020
+ABC,0830016972 01,Inactive,01-03-2018,28-02-2019,Marine,1,Vinay,Ahmedabad,Marine,Renewal,57539.3,01-03-2018,Brokerage,Inception,,22-01-2020
+ABC,'12063453,Active,14-12-2018,13-12-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,212357.74,14-12-2018,Brokerage,Inception,,22-01-2020
+ABC,1.21E+19,Inactive,01-03-2018,28-02-2019,Liability,1,Vinay,Ahmedabad,Liability,Cross Sell,31250,01-03-2018,Brokerage,Inception,,22-01-2020
+ABC,121400/36/17/17/00000005 ,Inactive,01-03-2018,28-02-2019,Liability,1,Vinay,Ahmedabad,Liability,Renewal,43750,01-03-2018,Brokerage,Inception,,22-01-2020
+ABC,121400/36/17/30/00000014,Inactive,01-03-2018,28-02-2019,Liability,1,Vinay,Ahmedabad,Liability,Cross Sell,75000,01-03-2018,Brokerage,Inception,,22-01-2020
+ABC,'12140036180800000001,Active,01-03-2019,29-02-2020,Liability,1,Vinay,Ahmedabad,Liability,Cross Sell,31250,01-03-2019,Brokerage,Renewal,,22-01-2020
+ABC,'12140036181700000021,Active,01-03-2019,29-02-2020,Liability,1,Vinay,Ahmedabad,Liability,Renewal,43750,01-03-2019,Brokerage,Renewal,,22-01-2020
+ABC,'12140036183000000021,Active,01-03-2019,29-02-2020,Liability,1,Vinay,Ahmedabad,Liability,Cross Sell,75000,01-03-2019,Brokerage,Renewal,,22-01-2020
+ABC,2302003268,Inactive,11-02-2018,10-02-2019,Liability,1,Vinay,Ahmedabad,Liability,Cross Sell,23125,11-02-2018,Brokerage,Inception,,22-01-2020
+ABC,'2302003268,Active,11-02-2019,10-02-2020,Liability,1,Vinay,Ahmedabad,Liability,Cross Sell,21875,11-02-2019,Brokerage,Renewal,,22-01-2020
+ABC,2309003346,Active,20-08-2018,19-08-2024,Liability,1,Vinay,Ahmedabad,Liability,Cross Sell,47500,20-08-2018,Brokerage,Inception,,22-01-2020
+ABC,2690000349,Active,31-12-2017,30-12-2018,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,Renewal,7632.55,31-12-2017,Brokerage,Inception,,22-01-2020
+ABC,55020309,Active,14-12-2018,13-12-2019,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,Renewal,2563.13,14-12-2018,Brokerage,Inception,,22-01-2020
+ABC,2018-F0513845-BSS,Inactive,23-06-2018,22-06-2019,Miscellaneous,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,8269.74,23-06-2018,Brokerage,Endorsement,,22-01-2020
+ABC,2018-F0513845-BSS,Inactive,23-06-2018,22-06-2019,Miscellaneous,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,8269.74,23-06-2018,Brokerage,Endorsement,,22-01-2020
+ABC,2018-F0513845-BSS,Inactive,23-06-2018,22-06-2019,Miscellaneous,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,5891,04-02-2019,Brokerage ,Endorsement,,22-01-2020
+ABC,2018-F0513845-BSS,Inactive,23-06-2018,22-06-2019,Miscellaneous,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,5891,04-02-2019,Brokerage ,Endorsement,,22-01-2020
+ABC,2018-L0116737-FWC,Inactive,23-06-2018,22-06-2019,Liability,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,2720.25,23-06-2018,Brokerage,Inception,,22-01-2020
+ABC,2018-L0116800-PBL,Inactive,23-06-2018,22-06-2019,Liability,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,375,23-06-2018,Brokerage,Inception,,22-01-2020
+ABC,2019-F0673106-BSS,Active,23-06-2019,22-06-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,15047.5,23-06-2019,Brokerage,Renewal,,22-01-2020
+ABC,2019-L0138835-FWC,Active,23-06-2019,22-06-2020,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,2852.5,23-06-2019,Brokerage,Renewal,,22-01-2020
+ABC,2019-L0139704-PBL,Active,23-06-2019,22-06-2020,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,495,23-06-2019,Brokerage,Renewal,,22-01-2020
+ABC,505613,Active,25-04-2019,24-04-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,9294.35,25-04-2019,Brokerage,Inception,,22-01-2020
+ABC,FGP-24-18-7001720-01-000,Inactive,23-06-2018,22-06-2019,Employee Benefits,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,2440.25,23-06-2018,Brokerage,Inception,,22-01-2020
+ABC,FGP-24-19-7003140-02-000,Active,23-06-2019,22-06-2020,Employee Benefits,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1412.55,23-06-2019,Brokerage,Renewal,,22-01-2020
+ABC,H0088766,Active,24-04-2019,23-04-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,63750,24-04-2019,Brokerage,Endorsement,,22-01-2020
+ABC,H0088766,Active,24-04-2019,23-04-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,3098.63,13-07-2019,Brokerage ,Endorsement,,22-01-2020
+ABC,H0088766,Active,24-04-2019,23-04-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,1747.2,17-07-2019,Brokerage ,Endorsement,,22-01-2020
+ABC,H0088766,Active,24-04-2019,23-04-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,2458.58,14-05-2019,Brokerage ,Endorsement,,22-01-2020
+ABC,141100/48/2019/48,Inactive,01-04-2018,31-03-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,11249.93,01-04-2018,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+ABC,GTL 3193894,Inactive,01-04-2018,31-03-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,14603.3,01-04-2018,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+ABC,GTL3304779,Inactive,13-06-2018,12-06-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,28940.65,13-06-2018,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+ABC,0260009050 00,Inactive,01-04-2018,31-03-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,146052.65,01-04-2018,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+ABC,2309002897,Active,02-05-2019,01-05-2020,Liability,1,Vinay,Ahmedabad,Liability,Renewal,25000,02-05-2019,Brokerage,Inception,,22-01-2020
+Sanjay Trivedi,2.06E+11,Active,16-02-2019,15-02-2020,Employee Benefits,13,Vididt Saha,Ahmedabad,Employee Benefits (EB),New,1148.93,16-02-2019,Brokerage,Inception,,22-01-2020
+Anita Sethi,2.06E+11,Active,16-02-2019,15-02-2020,Employee Benefits,13,Vididt Saha,Ahmedabad,Employee Benefits (EB),New,58300,16-02-2019,Brokerage,Inception,,22-01-2020
+Ashok Chatterjee,8907502,Inactive,24-02-2018,23-02-2019,Liability,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,6250,24-02-2018,Brokerage,Inception,,22-01-2020
+Rani Agarwal,0000000008907502-01,Active,24-02-2019,23-02-2020,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,6250,24-02-2019,Brokerage,Renewal,,22-01-2020
+Arjun Rao,020P000098802000,Inactive,26-02-2018,25-02-2019,Liability,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,12500,26-02-2018,Brokerage,Inception,,22-01-2020
+Anil Naik,020P000098803000,Active,26-02-2019,25-02-2020,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,12500,26-02-2019,Brokerage,Renewal,,22-01-2020
+Simran Trivedi,2280082714,Active,11-03-2019,10-03-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,2645.75,11-03-2019,Brokerage,Inception,,22-01-2020
+Dhruv Chopra,000000000086/4398,Inactive,27-02-2018,26-02-2019,Fire,1,Vinay,Ahmedabad,Property / BI,New,2939.29,27-02-2018,Brokerage,Inception,,22-01-2020
+Jaya Chopra,8539756,Inactive,27-02-2018,26-02-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,5207.66,27-02-2018,Brokerage,Inception,,22-01-2020
+Kiran Goyal,'0000000008539756-01,Active,27-02-2019,26-02-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,5601.1,27-02-2019,Brokerage,Renewal,,22-01-2020
+Pravin Sengupta,'0000000008539844,Inactive,27-02-2018,26-02-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Cross Sell,1972.37,27-02-2018,Brokerage,Inception,,22-01-2020
+Snehal Das,'0000000008539844-01,Active,27-02-2019,26-02-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Cross Sell,2141.55,27-02-2019,Brokerage,Renewal,,22-01-2020
+Rajesh Malhotra,'0000000008643898-01,Active,27-02-2019,26-02-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,3136.39,02-03-2019,Brokerage,Renewal,,22-01-2020
+Archana Bhatia,1.60E+17,Active,15-11-2019,14-11-2020,Fire,1,Vinay,Ahmedabad,Small Medium Enterpries (SME),Renewal,35127.9,15-11-2019,Brokerage,Inception,,22-01-2020
+Ashok Reddy,'99000044180400000024,Active,12-03-2019,11-03-2020,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,18229.13,12-03-2019,Brokerage,Inception,,22-01-2020
+Madhuri Bhatia,LW/00009151000100,Active,16-03-2018,15-03-2019,Miscellaneous,11,Raju Kumar,Ahmedabad,Liability,Cross Sell,6158.75,16-03-2018,Brokerage,Inception,,22-01-2020
+Pranav Mishra,2412/202312723700000,Active,22-01-2018,21-01-2019,Marine,1,Vinay,Ahmedabad,Marine,Cross Sell,825,22-01-2018,Brokerage,Inception,,22-01-2020
+Rina Goyal,OG-18-2202-4091-00000964,Inactive,20-02-2018,19-02-2019,Miscellaneous,9,Manish Sharma,Ahmedabad,Property / BI,Renewal,8452.13,20-02-2018,Brokerage,Inception,,22-01-2020
+Geeta Gupta,1213001118P112967501,Active,01-01-2019,31-12-2019,Fire,9,Manish Sharma,Ahmedabad,Property / BI,Cross Sell,7475,01-01-2019,Brokerage,Inception,,22-01-2020
+Sudhir Roy,'310304111810000477,Active,11-02-2019,10-02-2020,Miscellaneous,9,Manish Sharma,Ahmedabad,Property / BI,Cross Sell,15563.87,11-02-2019,Brokerage,Inception,,22-01-2020
+Rani Kaul,43177302,Active,28-11-2018,27-05-2019,Miscellaneous,9,Manish Sharma,Ahmedabad,Employee Benefits (EB),Cross Sell,2739.83,28-11-2018,Brokerage,Inception,,22-01-2020
+Kavita Sharma,43179225,Active,29-12-2018,28-06-2019,Miscellaneous,9,Manish Sharma,Ahmedabad,Employee Benefits (EB),Renewal,2228.33,29-12-2018,Brokerage,Inception,,22-01-2020
+Shikha Sethi,OG-19-2202-4091-00000967,Active,20-02-2019,19-02-2020,Miscellaneous,9,Manish Sharma,Ahmedabad,Property / BI,Renewal,7162.88,20-02-2019,Brokerage,Renewal,,22-01-2020
+Amit Bhargava,YB00020403000100,Active,08-02-2019,07-02-2020,Fire,13,Vididt Saha,Ahmedabad,Property / BI,New,1569.64,08-02-2019,Brokerage,Inception,,22-01-2020
+Alka Goel,31030411/17/10000760,Active,10-03-2018,09-03-2019,Fire,1,Vinay,Ahmedabad,Property / BI,New,2340.25,10-03-2018,Brokerage,Inception,,22-01-2020
+Harish Sharma,31030/459/1710000154,Active,10-03-2018,09-03-2019,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,New,125,10-03-2018,Brokerage,Inception,,22-01-2020
+Gaurav Goel,2999/202296981100000,Active,01-06-2018,31-05-2019,Liability,11,Raju Kumar,Ahmedabad,Liability,New,100000,01-06-2018,Brokerage,Endorsement,,22-01-2020
+Ravi Naik,2999/202296981100000,Active,01-06-2018,31-05-2019,Liability,11,Raju Kumar,Ahmedabad,Liability,New,,03-08-2018,Brokerage ,Endorsement,,22-01-2020
+Kamlesh Prasad,"2999202758217600000""",Active,22-04-2019,21-04-2020,Liability,11,Raju Kumar,Ahmedabad,Liability,Cross Sell,60025,22-04-2019,Brokerage,Inception,,22-01-2020
+Nikhil Verma,3.00E+18,Active,08-07-2019,07-07-2020,Liability,11,Raju Kumar,Ahmedabad,Liability,Cross Sell,60025,08-07-2019,Brokerage,Inception,,22-01-2020
+Vaishali Desai,3.00E+18,Active,08-07-2019,07-07-2020,Liability,11,Raju Kumar,Ahmedabad,Liability,Cross Sell,60025,08-07-2019,Brokerage,Inception,,22-01-2020
+Atul Naik,141100/48/2019/4225,Inactive,29-06-2018,28-06-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,5839.35,29-06-2018,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+Meena Bhargava,2002/132282540/02/000,Active,01-01-2019,31-12-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,36833.85,01-01-2019,Brokerage,Renewal,,22-01-2020
+Mona Chopra,2018-B0100354-FBG,Active,01-07-2018,30-06-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,6268.75,30-06-2019,Brokerage,Inception,,22-01-2020
+Mohit Tiwari,2018-F0512344-FRE,Active,01-07-2018,30-06-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,45473.07,30-06-2019,Brokerage,Inception,,22-01-2020
+Tina Dutta,2018-F0512462-FLO,Active,01-07-2018,30-06-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,9436.56,30-06-2019,Brokerage,Inception,,22-01-2020
+Hemant Das,2018-L0116963-CGL,Active,01-07-2018,30-06-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,30030.63,30-06-2019,Brokerage,Inception,,22-01-2020
+Sanjana Bhargava,2412/2024 4046 0100 000,Active,26-09-2018,25-09-2019,Marine,1,Vinay,Ahmedabad,Marine,Cross Sell,2722.5,26-09-2018,Brokerage,Inception,,22-01-2020
+Kamlesh Trivedi,9.10E+19,Inactive,12-12-2017,11-12-2018,Liability,6,Ketan Jain,Ahmedabad,Liability,New,71875,12-12-2017,Brokerage,Inception,,22-01-2020
+Nikita Tiwari,9.10E+19,Active,12-12-2018,11-12-2019,Liability,6,Ketan Jain,Ahmedabad,Liability,Renewal,62500,12-12-2018,Brokerage,Renewal,,22-01-2020
+Kapil Kapoor,304001140,Active,01-08-2018,31-07-2019,Liability,6,Ketan Jain,Ahmedabad,Liability,Renewal,84375,01-08-2018,Brokerage,Inception,,22-01-2020
+Harish Rana,635003567,Inactive,01-12-2017,30-11-2018,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),New,55107.13,01-12-2017,Brokerage,Inception,,22-01-2020
+Nikhil Pandit,0635003567 00,Active,01-12-2018,30-11-2019,Miscellaneous,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,231094.04,01-12-2018,Brokerage,Renewal,,22-01-2020
+Vivek Rana,4010/118287210/02/000,Active,25-05-2018,24-05-2019,Miscellaneous,1,Vinay,Ahmedabad,Liability,Cross Sell,943.5,26-05-2018,Brokerage,Inception,,22-01-2020
+Hemant Nair,4010/118433486/02/000,Active,25-05-2018,24-05-2019,Miscellaneous,1,Vinay,Ahmedabad,Liability,Cross Sell,2809.13,25-05-2018,Brokerage,Inception,,22-01-2020
+Veena Bhargava,4010/118434222/02/000,Active,25-05-2018,24-05-2019,Miscellaneous,1,Vinay,Ahmedabad,Liability,Renewal,2809.25,25-05-2018,Brokerage,Inception,,22-01-2020
+Shivam Shah,15552994,Active,02-12-2019,01-12-2020,Marine,2,Abhinav Shivam,Ahmedabad,Marine,New,20625,02-12-2019,Brokerage,Inception,,22-01-2020
+Bhavna Bhandari,9.90E+19,Active,29-07-2019,28-07-2020,Fire,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),New,32683,29-07-2019,Brokerage,Inception,,22-01-2020
+Tarun Shah,9.90E+19,Active,29-07-2019,28-07-2020,Fire,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),New,84590.55,29-07-2019,Brokerage,Inception,,22-01-2020
+Hemant Chauhan,9.90E+19,Active,29-07-2019,28-07-2020,Miscellaneous,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),New,10547.63,29-07-2019,Brokerage,Inception,,22-01-2020
+Geeta Verma,14055133,Active,26-07-2019,25-07-2020,Liability,2,Abhinav Shivam,Ahmedabad,Liability,Cross Sell,63000,26-07-2019,Brokerage,Inception,,22-01-2020
+Ashok Patel,2000010048,Inactive,28-07-2018,27-07-2019,Miscellaneous,8,Kumar Jha,Ahmedabad,Trade Credit &amp; Political Risk,Renewal,121875,28-07-2018,Brokerage,Endorsement,,22-01-2020
+Gayatri Reddy,2000010048,Inactive,28-07-2018,27-07-2019,Miscellaneous,8,Kumar Jha,Ahmedabad,Trade Credit &amp; Political Risk,Renewal,8174.5,18-07-2019,Brokerage ,Endorsement,,22-01-2020
+Snehal Patel,2000010048,Active,28-07-2019,27-07-2020,Miscellaneous,4,Gilbert,Ahmedabad,Trade Credit &amp; Political Risk,Renewal,115781.25,28-07-2019,Brokerage,Renewal,,22-01-2020
+Vivek Yadav,304001925,Inactive,01-04-2018,31-03-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,318411.5,31-03-2019,Brokerage,Inception,,22-01-2020
+Kiran Saxena,304003763,Active,01-04-2019,31-03-2020,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,344794.13,01-04-2019,Brokerage,Renewal,,22-01-2020
+Uday Reddy,0640002526 02,Active,10-07-2018,09-07-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,140949.5,10-07-2018,Brokerage,Inception,,22-01-2020
+Anita Pandit,1003/126704810/01/000,Inactive,01-01-2018,31-12-2018,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,460832.14,01-01-2018,Brokerage,Inception,,22-01-2020
+Hina Malhotra,1003/126704810/02/000,Active,01-01-2019,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,257590.8,01-01-2019,Brokerage,Endorsement,,22-01-2020
+Alka Patel,1003/126704810/02/000,Active,01-01-2019,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,-98802.02,01-01-2019,Brokerage ,Endorsement,,22-01-2020
+Shruti Roy,11988092,Active,07-02-2018,12-02-2018,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,338.55,07-02-2018,Brokerage,Inception,,22-01-2020
+Archana Singh,2304001082,Inactive,01-04-2018,31-03-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,40625,31-03-2019,Brokerage,Inception,,22-01-2020
+Mukul Goyal,2304001082-01,Active,01-04-2019,31-03-2020,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,37500,01-04-2019,Brokerage,Renewal,,22-01-2020
+Namita Bajaj,2.41E+18,Inactive,01-01-2018,31-12-2018,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,55361.6,01-01-2018,Brokerage,Inception,,22-01-2020
+Nikita Joshi,2.41E+18,Inactive,01-01-2019,31-12-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,86723.5,01-01-2019,Brokerage,Renewal,,22-01-2020
+Tejas Shah,2.41E+18,Active,01-01-2020,31-03-2020,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,21680.8,01-01-2020,Brokerage,Renewal,,22-01-2020
+Kavita Rao,2600010787 00,Active,20-07-2018,19-10-2018,Engineering,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,17419.13,20-07-2018,Brokerage,Inception,,22-01-2020
+Hemant Shah,2600011209 00,Active,05-09-2018,04-12-2018,Engineering,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,5165.63,05-09-2018,Brokerage,Inception,,22-01-2020
+Prabhat Naik,2600015265 00,Active,23-05-2019,31-03-2020,Engineering,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,9990.15,23-05-2019,Brokerage,Inception,,22-01-2020
+Nikhil Tiwari,2640011190,Active,11-06-2018,10-09-2018,Engineering,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,10625,11-06-2018,Brokerage,Inception,,22-01-2020
+Neha Trivedi,3.11E+18,Inactive,01-07-2017,30-06-2018,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,14399.88,01-07-2017,Brokerage,Inception,,22-01-2020
+Shruti Agarwal,3.11E+18,Active,01-07-2019,30-06-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,20165.5,01-07-2019,Brokerage,Renewal,,22-01-2020
+Kiran Desai,32119154,Active,01-04-2019,31-05-2019,Engineering,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,11593.27,01-04-2019,Brokerage,Inception,,22-01-2020
+Kanchan Iyer,4001/117090005/02/0000,Inactive,01-05-2018,30-04-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1185.9,01-05-2018,Brokerage,Inception,,22-01-2020
+Bhavna Kapoor,4001/117090005/03/000,Active,01-05-2019,30-04-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1005,01-05-2019,Brokerage,Renewal,,22-01-2020
+Ritika Reddy,4001/122835467/01,Inactive,28-09-2017,27-09-2018,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1050.38,28-09-2017,Brokerage,Inception,,22-01-2020
+Suresh Das,4001/122835467/02/000,Active,28-09-2018,27-09-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,6250,28-09-2018,Brokerage,Endorsement,,22-01-2020
+Shikha Chauhan,4001/122835467/02/000,Active,28-09-2018,27-09-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,,29-10-2018,Brokerage ,Endorsement,,22-01-2020
+Hemant Dutta,4001/122835467/02/000 ,Inactive,28-09-2018,27-09-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,6250,28-09-2018,Brokerage,Renewal,,22-01-2020
+Dinesh Pandey,4001/122835467/03/000,Active,28-09-2019,27-09-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,18814.25,28-09-2019,Brokerage,Renewal,,22-01-2020
+Archana Iyer,4092/147 968178/00/000,Inactive,09-04-2018,24-03-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,200659.63,31-03-2019,Brokerage,Inception,,22-01-2020
+Deepak Menon,4092/151965577/01/000,Active,01-04-2019,31-03-2020,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,215165,01-04-2019,Brokerage,Renewal,,22-01-2020
+Vivek Gupta,44180169,Active,19-01-2018,18-01-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,97.35,07-02-2018,Brokerage,Inception,,22-01-2020
+Rina Shah,ER00004563000100,Active,30-04-2019,30-06-2019,Engineering,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,3854.23,30-04-2019,Brokerage,Inception,,22-01-2020
+Uday Prasad,OG-19-2202-1002-00001901,Active,17-02-2019,22-02-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,6739.76,17-02-2019,Brokerage,Inception,,22-01-2020
+Nitin Kapoor,OG-19-2202-1002-00001981,Active,04-03-2019,10-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,6739.76,04-03-2019,Brokerage,Inception,,22-01-2020
+Harish Kaul,OG-19-2202-4001-00011127,Active,18-02-2019,05-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,8468.49,18-02-2019,Brokerage,Inception,,22-01-2020
+Neeraj Arora,OG-19-2202-4010-00002245,Active,18-02-2019,05-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,529.13,18-02-2019,Brokerage,Inception,,22-01-2020
+Mukul Kumar,'001P000202300000,Active,05-04-2019,04-04-2026,Liability,1,Vinay,Ahmedabad,Liability,Cross Sell,162500,05-04-2019,Brokerage,Inception,,22-01-2020
+Gauri Naik,'001P000203500000,Active,18-04-2019,17-10-2025,Liability,1,Vinay,Ahmedabad,Liability,Cross Sell,250000,18-04-2019,Brokerage,Inception,,22-01-2020
+Harish Menon,111200/11/2018/98,Inactive,02-08-2017,01-08-2018,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,78837.1,02-08-2017,Brokerage,Lapse,DRCT - Direct,22-01-2020
+Mohit Gupta,1.11E+19,Inactive,23-03-2018,22-03-2019,Liability,1,Vinay,Ahmedabad,Liability,Renewal,21875,23-03-2018,Brokerage,Inception,,22-01-2020
+Amit Arora,'11120036181000000012,Active,23-03-2019,22-03-2020,Liability,1,Vinay,Ahmedabad,Liability,Renewal,59322,22-04-2019,Brokerage,Renewal,,22-01-2020
+Nikita Pandit,'11120044170300000014,Active,23-03-2018,22-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,26763.4,23-12-2019,Brokerage,Inception,,22-01-2020
+Vikas Gupta,'11120044170300000014,Active,23-03-2018,22-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,26763.4,23-03-2020,Brokerage,Inception,,22-01-2020
+Kamlesh Pillai,'11120044170300000014,Active,23-03-2018,22-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,26763.44,23-06-2018,Brokerage,Inception,,22-01-2020
+Umesh Agarwal,'11120044170300000014,Active,23-03-2018,22-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,26763.44,23-09-2018,Brokerage,Inception,,22-01-2020
+Ankur Gandhi,'11120044170300000014,Active,23-03-2018,22-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,26763.44,23-12-2018,Brokerage,Inception,,22-01-2020
+Dinesh Kaul,'11120044170300000014,Active,23-03-2018,22-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,26763.44,23-03-2019,Brokerage,Inception,,22-01-2020
+Ankur Naik,'11120044170300000014,Active,23-03-2018,22-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,26763.44,23-06-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044170300000014,Active,23-03-2018,22-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,26763.44,23-09-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044170300000014,Active,23-03-2018,22-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,39440.84,23-03-2018,Brokerage,Inception,,22-01-2020
+XYZ,11120044180300000010',Active,09-08-2018,08-08-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,14274.76,09-11-2019,Brokerage,Inception,,22-01-2020
+XYZ,11120044180300000010',Active,09-08-2018,08-08-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,14274.76,09-02-2020,Brokerage,Inception,,22-01-2020
+XYZ,11120044180300000010',Active,09-08-2018,08-08-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,14274.76,09-05-2020,Brokerage,Inception,,22-01-2020
+XYZ,11120044180300000010',Active,09-08-2018,08-08-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,14274.76,09-08-2020,Brokerage,Inception,,22-01-2020
+XYZ,11120044180300000010',Active,09-08-2018,08-08-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,14274.76,09-11-2020,Brokerage,Inception,,22-01-2020
+XYZ,11120044180300000010',Active,09-08-2018,08-08-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,14274.76,09-02-2021,Brokerage,Inception,,22-01-2020
+XYZ,11120044180300000010',Active,09-08-2018,08-08-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,14274.76,09-02-2019,Brokerage,Inception,,22-01-2020
+XYZ,11120044180300000010',Active,09-08-2018,08-08-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,14274.76,09-02-2019,Brokerage,Inception,,22-01-2020
+XYZ,11120044180300000010',Active,09-08-2018,08-08-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,14274.76,09-05-2019,Brokerage,Inception,,22-01-2020
+XYZ,11120044180300000010',Active,09-08-2018,08-08-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,14274.76,09-08-2019,Brokerage,Inception,,22-01-2020
+XYZ,11120044180300000010',Active,09-08-2018,08-08-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,14274.8,09-11-2018,Brokerage,Inception,,22-01-2020
+XYZ,11120044180300000010',Active,09-08-2018,08-08-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,22539.08,09-08-2018,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000011,Active,13-12-2018,12-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,24072.23,13-12-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000011,Active,13-12-2018,12-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,24072.23,13-03-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000011,Active,13-12-2018,12-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,24072.23,13-06-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000011,Active,13-12-2018,12-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,24072.23,13-09-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000011,Active,13-12-2018,12-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,24072.23,13-12-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000011,Active,13-12-2018,12-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,24072.23,13-06-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000011,Active,13-12-2018,12-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,24072.23,13-09-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000011,Active,13-12-2018,12-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,24072.26,13-03-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000011,Active,13-12-2018,12-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,24072.26,13-03-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000011,Active,13-12-2018,12-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,35521.53,13-12-2018,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31816.79,11-12-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31816.79,11-03-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31816.79,11-06-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31816.79,11-09-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31816.79,11-12-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31816.79,11-09-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31816.79,11-09-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31816.83,11-03-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31816.83,11-03-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31816.83,11-03-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31816.83,11-06-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31816.83,11-06-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,46888.34,11-12-2018,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,46888.34,11-12-2018,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,46888.34,11-12-2018,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180300000012,Active,11-12-2018,10-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,46888.34,11-12-2018,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,5712.04,14-10-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,5712.04,14-01-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,5712.04,14-04-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,5712.04,14-07-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,5712.04,14-10-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,5712.04,14-01-2021,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,5712.04,14-04-2021,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,5712.04,14-07-2021,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,5712.04,14-07-2021,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,5712.04,14-07-2021,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,5712.04,14-07-2021,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,5712.04,14-10-2018,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,5712.04,14-01-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,5712.04,14-04-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,5712.04,14-07-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000002,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,15832.08,14-07-2018,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000003,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,11198.33,14-07-2021,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000003,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,11279.55,14-01-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000003,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,11279.55,14-04-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000003,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,11279.55,14-07-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000003,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,11279.55,14-10-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000003,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,11279.55,14-01-2021,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000003,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,11279.55,14-04-2021,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000003,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,11279.55,14-10-2018,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000003,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,11279.55,14-01-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000003,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,11279.55,14-04-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000003,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,11279.55,14-07-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000003,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,11279.55,14-10-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000003,Active,14-07-2018,13-01-2022,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,27256.2,14-07-2018,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000006,Active,14-12-2018,13-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,2426.03,14-12-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000006,Active,14-12-2018,13-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,2426.06,14-12-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000006,Active,14-12-2018,13-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,2426.06,14-03-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000006,Active,14-12-2018,13-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,2426.06,14-06-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000006,Active,14-12-2018,13-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,2426.06,14-09-2020,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000006,Active,14-12-2018,13-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,2426.06,14-03-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000006,Active,14-12-2018,13-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,2426.06,14-06-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000006,Active,14-12-2018,13-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,2426.06,14-09-2019,Brokerage,Inception,,22-01-2020
+XYZ,'11120044180800000006,Active,14-12-2018,13-06-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,6203.49,14-12-2018,Brokerage,Inception,,22-01-2020
+XYZ,1210001119P104351661',Active,26-06-2019,25-06-2020,Fire,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,137712.39,26-06-2019,Brokerage,Inception,,22-01-2020
+XYZ,'1213004416P107726014 / 1213002116P107726019,Active,28-02-2019,27-05-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,21929.45,01-03-2019,Brokerage,Renewal,,22-01-2020
+XYZ,1213004416P107726014  (SCE)/1213002116P107726019 ( MCE),Inactive,29-08-2016,28-02-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,55777.3,29-08-2016,Brokerage,Inception,,22-01-2020
+XYZ,1213004416P107744588 ,Inactive,26-08-2016,25-08-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,101109.75,25-08-2018,Brokerage,Lapse,NOLN - No Longer Needed,22-01-2020
+Sanjay Trivedi,'1213004416P109402880,Active,23-09-2016,22-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,31589.25,23-12-2017,Brokerage,Endorsement,,22-01-2020
+Anita Sethi,'1213004416P109402880,Active,23-09-2016,22-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,31589.25,23-03-2018,Brokerage,Endorsement,,22-01-2020
+Ashok Chatterjee,'1213004416P109402880,Active,23-09-2016,22-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,31589.25,23-06-2018,Brokerage,Endorsement,,22-01-2020
+Rani Agarwal,'1213004416P109402880,Active,23-09-2016,22-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,31589.25,23-09-2018,Brokerage,Endorsement,,22-01-2020
+Arjun Rao,'1213004416P109402880,Active,23-09-2016,22-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,31589.25,23-12-2018,Brokerage,Endorsement,,22-01-2020
+Anil Naik,'1213004416P109402880,Active,23-09-2016,22-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,31589.25,23-03-2019,Brokerage,Endorsement,,22-01-2020
+Simran Trivedi,'1213004416P109402880,Active,23-09-2016,22-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,31589.3,23-12-2016,Brokerage,Endorsement,,22-01-2020
+Dhruv Chopra,'1213004416P109402880,Active,23-09-2016,22-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,31589.3,23-03-2017,Brokerage,Endorsement,,22-01-2020
+Jaya Chopra,'1213004416P109402880,Active,23-09-2016,22-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,31589.3,23-06-2017,Brokerage,Endorsement,,22-01-2020
+Kiran Goyal,'1213004416P109402880,Active,23-09-2016,22-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,31589.3,23-09-2017,Brokerage,Endorsement,,22-01-2020
+Pravin Sengupta,'1213004416P109402880,Active,23-09-2016,22-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,183374.9,23-09-2016,Brokerage,Endorsement,,22-01-2020
+Snehal Das,'1213004416P109402880,Active,23-09-2016,22-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,0,,Brokerage ,Endorsement,,22-01-2020
+Rajesh Malhotra,'1213004416P109402880,Active,23-09-2016,22-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,0,,Brokerage ,Endorsement,,22-01-2020
+Archana Bhatia,'1213004416P109402880,Active,23-09-2016,22-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,0,,Brokerage ,Endorsement,,22-01-2020
+Ashok Reddy,141400/11/2018/484,Active,21-10-2017,20-10-2018,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,10118.39,21-10-2017,Brokerage,Inception,,22-01-2020
+Madhuri Bhatia,141400/48/2018/1288,Active,21-10-2017,20-10-2018,Miscellaneous,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,2254.63,21-10-2017,Brokerage,Inception,,22-01-2020
+Pranav Mishra,'23070044150300000010,Active,13-10-2015,12-10-2019,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,13-10-2015,Brokerage,Inception,,22-01-2020
+Rina Goyal,'23070044170300000002,Active,19-05-2017,18-11-2019,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,19-05-2017,Brokerage,Inception,,22-01-2020
+Geeta Gupta,2309003004,Active,29-05-2018,28-05-2027,Liability,1,Vinay,Ahmedabad,Liability,Cross Sell,118750,29-05-2018,Brokerage,Inception,,22-01-2020
+Sudhir Roy,'42040044180300000018,Active,28-08-2018,23-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,93516.75,07-05-2020,Brokerage,Inception,,22-01-2020
+Rani Kaul,'42040044180300000018,Active,28-08-2018,23-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,93516.75,07-05-2020,Brokerage,Inception,,22-01-2020
+Kavita Sharma,'42040044180300000018,Active,28-08-2018,23-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,93516.75,07-05-2020,Brokerage,Inception,,22-01-2020
+Shikha Sethi,'42040044180300000018,Active,28-08-2018,23-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,93517.25,25-01-2020,Brokerage,Inception,,22-01-2020
+Amit Bhargava,'42040044180300000018,Active,28-08-2018,23-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,100710.88,09-12-2018,Brokerage,Inception,,22-01-2020
+Alka Goel,'42040044180300000018,Active,28-08-2018,23-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,100710.88,22-03-2019,Brokerage,Inception,,22-01-2020
+Harish Sharma,'42040044180300000018,Active,28-08-2018,23-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,100710.88,03-07-2019,Brokerage,Inception,,22-01-2020
+Gaurav Goel,'42040044180300000018,Active,28-08-2018,23-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,100710.88,14-10-2019,Brokerage,Inception,,22-01-2020
+Ravi Naik,'42040044180300000018,Active,28-08-2018,23-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",New,129485.38,28-08-2018,Brokerage,Inception,,22-01-2020
+Kamlesh Prasad,'42040044180300000033,Active,06-12-2018,05-12-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,53711,06-12-2018,Brokerage,Inception,,22-01-2020
+Nikhil Verma,'42040044180300000057,Active,26-03-2019,25-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,49576,26-03-2019,Brokerage,Inception,,22-01-2020
+Vaishali Desai,5004/118413988/00/000,Active,21-09-2016,20-06-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,21-09-2016,Brokerage,Endorsement,,22-01-2020
+Atul Naik,5004/118413988/00/000,Active,21-09-2016,20-06-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,,21-09-2018,Brokerage ,Endorsement,,22-01-2020
+Meena Bhargava,5004/118413988/00/000,Active,21-09-2016,20-06-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,,21-12-2018,Brokerage ,Endorsement,,22-01-2020
+Mona Chopra,'500413128488100000,Active,01-06-2017,31-05-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,64971,01-12-2018,Brokerage,Inception,,22-01-2020
+Mohit Tiwari,2002/174911788/00/000,Active,30-06-2019,29-06-2020,Marine,1,Vinay,Ahmedabad,Marine,Renewal,66188.76,30-06-2019,Brokerage,Renewal,,22-01-2020
+Tina Dutta,'2414201438068601000,Active,30-06-2017,29-06-2018,Marine,1,Vinay,Ahmedabad,Marine,Cross Sell,37754.15,30-06-2018,Brokerage,Inception,,22-01-2020
+Hemant Das,'310300111910000371,Active,01-09-2019,31-08-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,48325.76,01-09-2019,Brokerage,Renewal,,22-01-2020
+Sanjana Bhargava,3.10E+17,Active,01-09-2018,31-08-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,5763.57,01-09-2018,Brokerage,Inception,,22-01-2020
+Kamlesh Trivedi,3.10E+17,Inactive,01-09-2018,31-08-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,5721.71,01-09-2018,Brokerage,Inception,,22-01-2020
+Nikita Tiwari,OG-19-2202-1018-00000036,Inactive,30-06-2018,29-06-2019,Marine,5,Juli,Ahmedabad,Marine,Renewal,50101.73,30-06-2018,Brokerage,Inception,,22-01-2020
+Kapil Kapoor,YB00015574000102,Inactive,12-01-2018,11-01-2019,Miscellaneous,1,Vinay,Ahmedabad,Energy,Renewal,2940.49,12-01-2018,Brokerage,Lapse,OTHR – Other,22-01-2020
+Harish Rana,YB00015574000103,Active,12-01-2019,11-01-2020,Miscellaneous,1,Vinay,Ahmedabad,Energy,Renewal,3073.94,12-01-2019,Brokerage,Renewal,,22-01-2020
+Nikhil Pandit,'2411 2020 9689 0500 000,Inactive,16-01-2018,15-01-2019,Marine,1,Vinay,Ahmedabad,Marine,Cross Sell,330,16-01-2018,Brokerage,Lapse,OTHR – Other,22-01-2020
+Vivek Rana,'310300111910000396,Active,01-09-2019,31-08-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,20327.63,01-09-2019,Brokerage,Renewal,,22-01-2020
+Hemant Nair,3.10E+17,Inactive,01-09-2018,31-08-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,2164.3,01-09-2018,Brokerage,Inception,,22-01-2020
+Veena Bhargava,'310300111910000397,Active,01-09-2019,31-08-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,27258.8,01-09-2019,Brokerage,Renewal,,22-01-2020
+Shivam Shah,3.10E+17,Inactive,01-09-2018,31-08-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,5105.2,01-09-2018,Brokerage,Inception,,22-01-2020
+Bhavna Bhandari,MD004600,Active,17-01-2020,22-01-2020,Employee Benefits,1,Vinay,Ahmedabad,Small Medium Enterpries (SME),Cross Sell,95.85,17-01-2020,Brokerage,Inception,,22-01-2020
+Tarun Shah,3.10E+17,Active,01-09-2018,31-08-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,153.76,01-09-2018,Brokerage,Inception,,22-01-2020
+Hemant Chauhan,3.10E+17,Active,01-09-2018,31-08-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,3842.38,01-09-2018,Brokerage,Inception,,22-01-2020
+Geeta Verma,0865085175 00 00,Active,12-09-2019,11-09-2020,Marine,1,Vinay,Ahmedabad,Small Medium Enterpries (SME),Renewal,3300,12-09-2019,Brokerage,Inception,,22-01-2020
+Ashok Patel,2002/160095852/00/000,Active,01-11-2018,31-10-2019,Marine,1,Vinay,Ahmedabad,Marine,Renewal,7424.84,01-11-2018,Brokerage,Renewal,,22-01-2020
+Gayatri Reddy,22214171,Inactive,01-11-2017,31-10-2018,Marine,1,Vinay,Ahmedabad,Marine,Renewal,55687.5,01-11-2017,Brokerage,Lapse,OTHR – Other,22-01-2020
+Snehal Patel,22341873,Active,12-09-2018,11-09-2019,Marine,5,Juli,Ahmedabad,Marine,Renewal,8745.18,12-09-2018,Brokerage,Inception,,22-01-2020
+Vivek Yadav,'21300031180100007178,Active,15-02-2019,14-02-2020,Motor,9,Manish Sharma,Ahmedabad,Motor,Cross Sell,10578.39,15-02-2019,Brokerage,Inception,,22-01-2020
+Kiran Saxena,'310300111910000395,Active,01-09-2019,31-08-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,10279.51,01-09-2019,Brokerage,Renewal,,22-01-2020
+Uday Reddy,3.10E+17,Inactive,01-09-2018,31-08-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,610.77,01-09-2018,Brokerage,Inception,,22-01-2020
+Anita Pandit,301004265,Inactive,09-03-2018,08-03-2019,Liability,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,25000,09-03-2018,Brokerage,Inception,,22-01-2020
+Hina Malhotra,0301004265-1,Active,09-03-2019,08-03-2020,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,23750,09-03-2019,Brokerage,Renewal,,22-01-2020
+Alka Patel,1.95E+11,Inactive,10-11-2018,09-11-2019,Employee Benefits,13,Vididt Saha,Ahmedabad,Employee Benefits (EB),Cross Sell,0,10-11-2018,Brokerage,Inception,,22-01-2020
+Shruti Roy,2.41E+18,Inactive,12-01-2018,11-01-2019,Marine,13,Vididt Saha,Ahmedabad,Marine,Cross Sell,10395,12-01-2018,Brokerage,Endorsement,,22-01-2020
+Archana Singh,2.41E+18,Inactive,12-01-2018,11-01-2019,Marine,13,Vididt Saha,Ahmedabad,Marine,Cross Sell,0,,Brokerage ,Endorsement,,22-01-2020
+Mukul Goyal,2412 2020 7182 9001 000,Inactive,12-01-2019,11-01-2020,Marine,13,Vididt Saha,Ahmedabad,Marine,Cross Sell,15592.5,12-01-2019,Brokerage,Renewal,,22-01-2020
+Namita Bajaj,2.41E+18,Active,12-01-2020,11-01-2021,Marine,13,Vididt Saha,Ahmedabad,Marine,Cross Sell,11310.75,12-01-2020,Brokerage,Renewal,,22-01-2020
+Nikita Joshi,4101191100000008-00,Active,10-11-2019,09-11-2020,Employee Benefits,13,Vididt Saha,Ahmedabad,Employee Benefits (EB),Renewal,48928.73,10-11-2019,Brokerage,Renewal,,22-01-2020
+Tejas Shah,41050127,Active,25-11-2019,24-11-2020,Liability,13,Vididt Saha,Ahmedabad,Liability,Renewal,18975,25-11-2019,Brokerage,Inception,,22-01-2020
+Kavita Rao,43169018,Inactive,11-07-2018,10-07-2019,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,16170,11-07-2018,Brokerage,Lapse,NOLN - No Longer Needed,22-01-2020
+Hemant Shah,54522170,Active,09-07-2019,08-07-2020,Employee Benefits,13,Vididt Saha,Ahmedabad,Employee Benefits (EB),Cross Sell,9056.48,09-07-2019,Brokerage,Inception,,22-01-2020
+Prabhat Naik,OG-19-2202-4001-00004011,Inactive,10-07-2018,09-07-2019,Fire,13,Vididt Saha,Ahmedabad,Property / BI,Cross Sell,18357,10-07-2018,Brokerage,Lapse,OTHR – Other,22-01-2020
+Nikhil Tiwari,OG-19-2202-4004-00000044,Inactive,10-07-2018,09-07-2019,Fire,13,Vididt Saha,Ahmedabad,Property / BI,Cross Sell,10416.75,10-07-2018,Brokerage,Inception,,22-01-2020
+Neha Trivedi,OG-19-2202-4010-00000816,Inactive,10-07-2018,09-07-2019,Miscellaneous,13,Vididt Saha,Ahmedabad,Property / BI,Cross Sell,1232,10-07-2018,Brokerage,Inception,,22-01-2020
+Shruti Agarwal,OG-19-2202-4010-00000817,Inactive,10-07-2018,09-07-2019,Miscellaneous,13,Vididt Saha,Ahmedabad,Property / BI,Cross Sell,242.5,10-07-2018,Brokerage,Lapse,NOLN - No Longer Needed,22-01-2020
+Kiran Desai,OG-19-2202-4011-00000127,Active,09-01-2019,08-01-2020,Miscellaneous,13,Vididt Saha,Ahmedabad,Property / BI,Cross Sell,643.75,09-01-2019,Brokerage,Inception,,22-01-2020
+Kanchan Iyer,OG-20-2202-4004-00000043,Active,16-05-2019,15-05-2020,Fire,13,Vididt Saha,Ahmedabad,Property / BI,Cross Sell,4595.75,16-05-2019,Brokerage,Inception,,22-01-2020
+Bhavna Kapoor,OG-20-2202-4004-00000066,Active,11-07-2019,10-07-2020,Fire,13,Vididt Saha,Ahmedabad,Property / BI,Cross Sell,21905.2,11-07-2019,Brokerage,Renewal,,22-01-2020
+Ritika Reddy,OG-20-2202-4010-00000924,Active,10-07-2019,09-07-2020,Miscellaneous,13,Vididt Saha,Ahmedabad,Property / BI,Cross Sell,337.5,10-07-2019,Brokerage,Renewal,,22-01-2020
+Suresh Das,0000000007919559-01,Active,28-12-2018,27-12-2019,Marine,1,Vinay,Ahmedabad,Marine,Cross Sell,6112.76,28-12-2018,Brokerage,Endorsement,,22-01-2020
+Shikha Chauhan,0000000007919559-01,Active,28-12-2018,27-12-2019,Marine,1,Vinay,Ahmedabad,Marine,Cross Sell,0,,Brokerage ,Endorsement,,22-01-2020
+Hemant Dutta,2001/161822918/00/000,Active,06-12-2018,05-12-2019,Marine,1,Vinay,Ahmedabad,Marine,Cross Sell,10725,06-12-2018,Brokerage,Inception,,22-01-2020
+Dinesh Pandey,2280014070,Active,09-03-2019,08-03-2020,Liability,2,Abhinav Shivam,Ahmedabad,Liability,Cross Sell,27530.38,09-03-2019,Brokerage,Inception,,22-01-2020
+Archana Iyer,3.10E+17,Inactive,01-04-2018,31-03-2019,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,Cross Sell,106033.91,01-04-2018,Brokerage,Lapse,COMP - Competition,22-01-2020
+Deepak Menon,3.10E+17,Active,08-01-2019,07-04-2019,Fire,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),Cross Sell,3978.77,08-01-2019,Brokerage,Inception,,22-01-2020
+Vivek Gupta,3.10E+17,Active,19-01-2019,18-04-2019,Fire,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),Cross Sell,9453.35,19-01-2019,Brokerage,Inception,,22-01-2020
+Rina Shah,3.10E+17,Active,26-02-2019,25-04-2019,Fire,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),Cross Sell,4156.79,26-02-2019,Brokerage,Inception,,22-01-2020
+Uday Prasad,43187020,Active,22-04-2019,21-04-2020,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,New,7451.24,22-04-2019,Brokerage,Inception,,22-01-2020
+Nitin Kapoor,0865082088 00,Active,07-12-2018,06-12-2019,Marine,1,Vinay,Ahmedabad,Marine,Cross Sell,3630,17-12-2019,Brokerage,Inception,,22-01-2020
+Harish Kaul,0865081032 00,Active,11-09-2018,10-09-2019,Marine,1,Vinay,Ahmedabad,Marine,Renewal,1072.5,11-09-2019,Brokerage,Inception,,22-01-2020
+Neeraj Arora,1.11E+19,Active,03-01-2019,02-10-2019,Engineering,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,49401.25,03-01-2019,Brokerage,Inception,,22-01-2020
+Mukul Kumar,1.11E+19,Active,03-01-2019,02-10-2019,Engineering,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,49401.25,03-01-2019,Brokerage,Inception,,22-01-2020
+Gauri Naik,1.11E+19,Active,03-01-2019,02-10-2019,Engineering,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,45000,03-01-2019,Brokerage,Inception,,22-01-2020
+Harish Menon,4016/138636598/01/000,Inactive,30-09-2018,29-09-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,54000,30-09-2018,Brokerage,Inception,,22-01-2020
+Mohit Gupta,2005/162167315/00/000,Active,14-12-2018,13-12-2019,Marine,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,5659.5,14-12-2018,Brokerage,Inception,,22-01-2020
+Amit Arora,3.11E+18,Active,11-04-2019,09-04-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,2942.25,11-04-2019,Brokerage,Inception,,22-01-2020
+Nikita Pandit,0000000007404252-01,Inactive,24-10-2018,23-10-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,6335.5,23-10-2019,Brokerage,Inception,,22-01-2020
+Vikas Gupta,0000000007404252-02,Active,26-10-2019,25-10-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,2436.75,26-10-2019,Brokerage,Renewal,,22-01-2020
+Kamlesh Pillai,10619837,Inactive,24-10-2018,23-10-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,18321.23,24-10-2018,Brokerage,Inception,,22-01-2020
+Umesh Agarwal,0000000010619837-01,Active,25-10-2019,24-10-2020,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,26967.39,25-10-2019,Brokerage,Renewal,,22-01-2020
+Ankur Gandhi,1011/142530053/00/000,Active,01-01-2018,31-12-2018,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,159956.76,01-01-2018,Brokerage,Inception,,22-01-2020
+Dinesh Kaul,1011/142530053/01/000,Active,01-01-2019,31-12-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,0,01-01-2019,Brokerage,Inception,,22-01-2020
+Ankur Naik,1.60E+17,Active,31-05-2018,30-09-2018,Engineering,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,8268.13,30-09-2018,Brokerage,Inception,,22-01-2020
+DDD,3.11E+18,Active,19-09-2019,18-09-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,12500.13,19-09-2019,Brokerage,Renewal,,22-01-2020
+DDD,3.12E+18,Active,27-03-2018,26-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,10584.15,27-03-2018,Brokerage,Inception,,22-01-2020
+DDD,3.12E+18,Active,02-01-2019,31-12-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,14393.8,02-01-2019,Brokerage,Inception,,22-01-2020
+DDD,4006/131284920/01/000,Inactive,15-05-2018,14-05-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,691.85,15-05-2018,Brokerage,Inception,,22-01-2020
+DDD,4006/131284920/02/000,Active,15-05-2019,14-05-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,691.85,15-05-2019,Brokerage,Renewal,,22-01-2020
+DDD,4010/121054809/01/000,Active,22-08-2017,21-08-2018,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,10964.79,22-08-2017,Brokerage,Inception,,22-01-2020
+DDD,4010/121054809/02/000,Inactive,22-08-2018,21-08-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,13630.7,21-08-2019,Brokerage,Inception,,22-01-2020
+DDD,4016 138636598 02 000,Active,30-09-2019,29-09-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,123750,30-09-2019,Brokerage,Renewal,,22-01-2020
+DDD,5002/131802941/01/000,Inactive,26-05-2018,25-05-2019,Engineering,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,869.63,26-05-2018,Brokerage,Inception,,22-01-2020
+DDD,5002/131802941/02/000,Active,26-05-2019,25-05-2020,Engineering,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,869.63,26-05-2019,Brokerage,Renewal,,22-01-2020
+DDD,LQX/I2508418/71/02/005537,Active,16-02-2018,15-02-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1562.5,16-02-2019,Brokerage,Inception,,22-01-2020
+DDD,NBI Domestic,Inactive,01-01-2019,31-12-2019,Miscellaneous,4,Gilbert,Ahmedabad,Trade Credit &amp; Political Risk,Renewal,43367,01-07-2019,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+DDD,NBI Domestic,Inactive,01-01-2019,31-12-2019,Miscellaneous,4,Gilbert,Ahmedabad,Trade Credit &amp; Political Risk,Renewal,43367,01-10-2019,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+DDD,NBI Domestic,Inactive,01-01-2019,31-12-2019,Miscellaneous,4,Gilbert,Ahmedabad,Trade Credit &amp; Political Risk,Renewal,65050.5,01-01-2019,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+DDD,NBI Domestic,Inactive,01-01-2019,31-12-2019,Miscellaneous,4,Gilbert,Ahmedabad,Trade Credit &amp; Political Risk,Renewal,65050.5,01-04-2019,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+DDD,NBI Export,Inactive,01-01-2019,31-12-2019,Miscellaneous,4,Gilbert,Ahmedabad,Trade Credit &amp; Political Risk,Renewal,10824.4,01-07-2019,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+DDD,NBI Export,Inactive,01-01-2019,31-12-2019,Miscellaneous,4,Gilbert,Ahmedabad,Trade Credit &amp; Political Risk,Renewal,10824.4,01-10-2019,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+DDD,NBI Export,Inactive,01-01-2019,31-12-2019,Miscellaneous,4,Gilbert,Ahmedabad,Trade Credit &amp; Political Risk,Renewal,16236.6,01-01-2019,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+DDD,NBI Export,Inactive,01-01-2019,31-12-2019,Miscellaneous,4,Gilbert,Ahmedabad,Trade Credit &amp; Political Risk,Renewal,16236.6,01-04-2019,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+DDD,OG-18-2202-1018-00000036,Inactive,01-01-2018,31-12-2018,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,36612.18,01-01-2018,Brokerage,Inception,,22-01-2020
+DDD,OG-18-2202-3383-00000005,Inactive,01-01-2018,31-12-2018,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,28735.65,01-01-2018,Brokerage,Inception,,22-01-2020
+DDD,OG-19-2202-1018-00000052,Active,01-01-2019,31-12-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,53277.92,01-01-2019,Brokerage,Renewal,,22-01-2020
+DDD,OG-19-2202-3383-00000007,Active,01-01-2019,31-12-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,30048.08,01-01-2019,Brokerage,Renewal,,22-01-2020
+DDD,PROHLN000005719,Active,21-01-2019,20-01-2020,Employee Benefits,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,15084.15,21-01-2019,Brokerage,Inception,,22-01-2020
+DDD,2250007836,Inactive,07-02-2018,06-02-2019,Miscellaneous,1,Vinay,Ahmedabad,Liability,Cross Sell,1013.88,07-02-2018,Brokerage,Lapse,NOLN - No Longer Needed,22-01-2020
+DDD,2250007837,Inactive,07-02-2018,06-02-2019,Miscellaneous,1,Vinay,Ahmedabad,Liability,Cross Sell,1601.5,07-02-2018,Brokerage,Lapse,JCOM - Job Completed,22-01-2020
+DDD,'2309003157,Inactive,03-07-2018,02-07-2019,Liability,1,Vinay,Ahmedabad,Liability,Renewal,37500,03-07-2018,Brokerage,Inception,,22-01-2020
+DDD,'2309003157 01,Active,03-07-2019,02-07-2020,Liability,1,Vinay,Ahmedabad,Liability,Renewal,35000,03-07-2019,Brokerage,Renewal,,22-01-2020
+DDD,9.90E+19,Inactive,26-02-2017,25-02-2018,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,992.51,25-02-2018,Brokerage,Lapse,OTHR – Other,22-01-2020
+DDD,9.90E+19,Active,26-02-2017,25-02-2018,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,992.51,25-02-2018,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Inactive,31-12-2016,30-12-2017,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,377079.15,31-12-2016,Brokerage,Lapse,OTHR – Other,22-01-2020
+DDD,9.90E+19,Inactive,28-06-2017,27-06-2018,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,61251.58,28-06-2017,Brokerage,Inception,,22-01-2020
+DDD,99000011170100000135',Inactive,28-06-2017,27-06-2018,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,62070.81,28-06-2017,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,06-07-2017,05-07-2018,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,1261.84,06-07-2017,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Inactive,01-01-2018,31-12-2018,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,349157.16,01-01-2018,Brokerage,Lapse,OTHR – Other,22-01-2020
+DDD,'99000011170100000412,Inactive,14-02-2018,13-02-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,107689.68,14-02-2018,Brokerage,Inception,,22-01-2020
+DDD,99000011180100000149',Inactive,20-07-2018,19-07-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,5417.97,20-07-2018,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Inactive,28-06-2018,27-06-2019,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,61936.46,28-06-2018,Brokerage,Renewal,,22-01-2020
+DDD,9.90E+19,Inactive,28-06-2018,27-06-2019,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,56276.26,28-06-2018,Brokerage,Renewal,,22-01-2020
+DDD,'99000011180100000284,Active,01-01-2019,31-12-2019,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,399509.89,01-01-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000011180100000303,Active,16-01-2019,15-01-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,98931.05,16-01-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000011180100000339,Active,14-02-2019,13-02-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,1610,14-02-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000011180100000340,Active,14-02-2019,13-02-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,131090.46,26-02-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000011180100000352,Active,16-03-2019,15-03-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,2056.43,16-03-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000011180100000353,Active,12-03-2019,11-03-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,1194.28,12-03-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000011190100000078,Active,28-06-2019,27-06-2020,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,75395.04,28-06-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000011190100000079,Active,28-06-2019,27-06-2020,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,53595,28-06-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000011190100000121,Active,20-07-2019,19-07-2020,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,6595.25,20-07-2019,Brokerage,Renewal,,22-01-2020
+DDD,9.90E+19,Active,06-06-2017,05-06-2018,Marine,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,2887.38,06-07-2017,Brokerage,Inception,,22-01-2020
+DDD,'99000021180100000013,Active,29-01-2019,28-01-2020,Marine,1,Vinay,Ahmedabad,Marine,Cross Sell,11539.77,29-01-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000036181500000054,Active,01-02-2019,31-01-2020,Liability,1,Vinay,Ahmedabad,Liability,Cross Sell,21875,01-02-2019,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,09-01-2017,08-01-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,8588.56,10-04-2017,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,08-02-2017,07-08-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,3050.6,08-02-2017,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,08-02-2017,07-08-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,3050.6,07-08-2017,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,20-10-2016,19-04-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,40309.5,30-12-2017,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,20-10-2016,19-04-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,40309.68,06-02-2017,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,20-10-2016,19-04-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,40309.68,25-05-2017,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,20-10-2016,19-04-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,40309.68,12-09-2017,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,20-10-2016,19-04-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,50909.6,20-10-2016,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,27-12-2016,26-07-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31079.56,27-03-2017,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,27-12-2016,26-07-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31079.56,27-06-2017,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,27-12-2016,26-07-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31079.56,27-09-2017,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,27-12-2016,26-07-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,31088.49,27-12-2017,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,27-12-2016,26-07-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,39249.53,27-12-2016,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,29-03-2017,28-03-2018,Miscellaneous,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,8961.75,29-03-2017,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,07-08-2017,06-08-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,877.71,06-08-2018,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Inactive,17-06-2017,16-06-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,8107.49,16-07-2018,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,06-07-2017,05-07-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,7398.74,05-07-2018,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,09-10-2017,08-10-2018,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,15429.84,09-10-2017,Brokerage,Inception,,22-01-2020
+DDD,'99000044175800000017,Inactive,14-02-2018,13-02-2019,Miscellaneous,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,3120.25,14-02-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000004,Inactive,20-04-2018,19-04-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,70725.99,20-04-2018,Brokerage,Lapse,JCOM - Job Completed,22-01-2020
+DDD,'99000044180300000009,Active,30-04-2018,30-10-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,4278.13,27-12-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000009,Active,30-04-2018,30-10-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,4278.13,06-04-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000009,Active,30-04-2018,30-10-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,4278.25,16-07-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000009,Active,30-04-2018,30-10-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,4278.25,16-07-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000009,Active,30-04-2018,30-10-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,4278.25,16-07-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000009,Active,30-04-2018,30-10-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,4278.25,16-07-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000009,Active,30-04-2018,30-10-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,4705.88,09-08-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000009,Active,30-04-2018,30-10-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,4705.88,18-11-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000009,Active,30-04-2018,30-10-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,4705.88,27-02-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000009,Active,30-04-2018,30-10-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,4705.88,08-06-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000009,Active,30-04-2018,30-10-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,4705.88,17-09-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000009,Active,30-04-2018,30-10-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,6417.13,30-04-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000022,Inactive,27-06-2018,26-06-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,81783.89,27-06-2018,Brokerage,Lapse,OTHR – Other,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,70935.55,27-02-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,70935.55,27-02-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,70935.55,27-02-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,70935.55,27-02-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,90281.89,27-11-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,90281.89,27-02-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,90281.89,27-05-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,90281.89,27-08-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,90281.89,27-11-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,122525.38,27-08-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,27-02-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,27-02-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,27-02-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,27-02-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,27-11-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,27-02-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,27-05-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,27-08-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,27-11-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000047,Active,27-08-2018,26-08-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,27-08-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,62399.23,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,62399.23,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,62399.23,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,62399.23,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,62399.23,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,62399.23,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,62399.23,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,62399.23,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,62399.4,14-02-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,62399.4,14-05-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,62399.4,14-11-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,68639.38,14-11-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,68639.38,14-02-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,68639.38,14-05-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,68639.38,14-08-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,99839.08,14-08-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-02-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-05-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-11-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-11-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-02-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-05-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-08-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000048,Active,14-08-2018,13-02-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-08-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000053,Active,25-09-2018,24-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,65412.72,25-03-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000053,Active,25-09-2018,24-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,83253.18,25-12-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000053,Active,25-09-2018,24-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,83253.18,25-03-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000053,Active,25-09-2018,24-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,83253.18,25-06-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000053,Active,25-09-2018,24-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,83253.18,25-09-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000053,Active,25-09-2018,24-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,83253.18,25-12-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000053,Active,25-09-2018,24-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,112986.38,25-09-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000053,Active,25-09-2018,24-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,25-03-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000053,Active,25-09-2018,24-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,25-12-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000053,Active,25-09-2018,24-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,25-03-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000053,Active,25-09-2018,24-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,25-06-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000053,Active,25-09-2018,24-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,25-09-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000053,Active,25-09-2018,24-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,25-12-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000053,Active,25-09-2018,24-09-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,25-09-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000056,Inactive,20-10-2018,19-04-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,101037,20-10-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000064,Inactive,09-01-2019,08-07-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,16455,09-01-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000064,Inactive,09-01-2019,08-07-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,09-01-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000074,Active,07-03-2019,06-06-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,11360,07-03-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000076,Inactive,27-03-2019,26-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,67102,27-03-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000076,Inactive,27-03-2019,26-09-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,27-03-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,120474.73,08-12-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,120474.73,08-12-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,153332.03,31-01-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,153332.03,14-05-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,153332.03,26-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,153332.03,07-07-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,153332.03,19-10-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,208093.46,25-03-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,08-12-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,08-12-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,31-01-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,14-05-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,26-08-2020,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,07-07-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,19-10-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180300000078,Active,25-03-2019,24-03-2021,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,25-03-2019,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Inactive,18-07-2018,17-07-2019,Engineering,1,Vinay,Ahmedabad,Property / BI,Renewal,8107.49,18-07-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044180700000011,Active,18-02-2019,17-02-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,19113.41,18-02-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044180700000012,Active,14-02-2019,13-02-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Renewal,12055.25,14-02-2019,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,10-09-2018,09-09-2019,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,Renewal,484.75,10-09-2018,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Active,10-09-2018,09-09-2019,Miscellaneous,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Renewal,109.88,10-09-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044185800000014,Active,14-02-2019,13-02-2020,Miscellaneous,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Renewal,27069,14-02-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000044185900000001,Active,14-08-2018,13-02-2021,Fire,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,66556.88,14-08-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000044190300000004,Active,20-04-2019,19-07-2019,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,40959.63,20-04-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000044190300000023,Active,09-07-2019,08-10-2019,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,8263.94,09-07-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000044190300000023,Active,09-07-2019,08-10-2019,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,0,09-07-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000044190300000046,Active,27-09-2019,26-03-2020,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,67102.13,27-09-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000044190700000001,Inactive,01-04-2019,31-03-2020,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Renewal,90663.25,01-04-2019,Brokerage,Lapse,OTHR – Other,22-01-2020
+DDD,''99000044190700000001,Active,01-04-2019,31-03-2020,Engineering,11,Raju Kumar,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,90663.25,01-04-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044190700000002,Active,18-07-2019,17-07-2020,Engineering,1,Vinay,Ahmedabad,Property / BI,Renewal,8854.88,18-07-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000044196500000008,Active,01-04-2019,31-03-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Renewal,7187.34,01-04-2019,Brokerage,Inception,,22-01-2020
+DDD,'99000044196500000008,Active,01-04-2019,31-03-2020,Engineering,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Renewal,0,01-04-2019,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Inactive,27-04-2017,26-04-2018,Miscellaneous,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,121755.9,27-04-2017,Brokerage,Lapse,Policy Renewed,22-01-2020
+DDD,'99000046182400000003,Inactive,01-04-2018,31-03-2019,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,Cross Sell,96758.81,01-04-2018,Brokerage,Inception,,22-01-2020
+DDD,9.90E+19,Inactive,27-04-2018,26-04-2019,Miscellaneous,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Renewal,149758.53,27-05-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000046182400000039,Inactive,07-06-2018,06-06-2019,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,Cross Sell,9277.1,07-06-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000046182400000053,Inactive,16-07-2018,15-07-2019,Miscellaneous,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,16533.25,16-07-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000046182400000054,Inactive,16-07-2018,15-07-2019,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,Cross Sell,15408.4,16-07-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000046182400000055,Inactive,16-07-2018,15-07-2019,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,Cross Sell,56757.75,16-07-2018,Brokerage,Inception,,22-01-2020
+DDD,'99000046192400000001,Active,01-04-2019,31-03-2020,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,Renewal,60229.25,01-04-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000046192400000020,Active,27-04-2019,26-05-2019,Miscellaneous,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Renewal,21358.38,27-04-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000046192400000039,Active,12-06-2019,11-06-2020,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,Cross Sell,10937.5,12-06-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000046192400000057,Active,16-07-2019,15-07-2020,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,Cross Sell,16474.5,16-07-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000046192400000058,Active,16-07-2019,15-07-2020,Miscellaneous,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,10776.25,16-07-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000046192400000059,Active,16-07-2019,15-07-2020,Miscellaneous,1,Vinay,Ahmedabad,Property / BI,Cross Sell,61042.25,16-07-2019,Brokerage,Renewal,,22-01-2020
+DDD,'99000046192400000060,Active,15-07-2019,14-07-2020,Fire,11,Raju Kumar,Ahmedabad,Property / BI,Cross Sell,15601.02,15-07-2019,Brokerage,Inception,,22-01-2020
+DDD,"""	99000048170300000007""",Active,27-04-2017,26-04-2018,Miscellaneous,1,Vinay,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,7000,26-04-2018,Brokerage,Inception,,22-01-2020
+DDD,1.60E+17,Inactive,06-08-2018,05-08-2019,Employee Benefits,13,Vididt Saha,Ahmedabad,Employee Benefits (EB),Renewal,21000,06-08-2018,Brokerage,Lapse,OTHR – Other,22-01-2020
+DDD,HG00003377000100,Active,10-08-2019,09-08-2020,Employee Benefits,13,Vididt Saha,Ahmedabad,Employee Benefits (EB),Cross Sell,28069.13,10-08-2019,Brokerage,Inception,,22-01-2020
+Sanjay Trivedi,41047870,Active,05-07-2019,04-07-2020,Liability,2,Abhinav Shivam,Ahmedabad,Liability,New,72675,05-07-2019,Brokerage,Inception,,22-01-2020
+Anita Sethi,41047870,Active,05-07-2019,04-07-2020,Liability,2,Abhinav Shivam,Ahmedabad,Liability,New,72675,05-07-2019,Brokerage,Inception,,22-01-2020
+Ashok Chatterjee,0865000748 01,Inactive,01-04-2018,31-03-2019,Marine,6,Ketan Jain,Ahmedabad,Marine,Renewal,23771.05,01-04-2018,Brokerage,Inception,,22-01-2020
+Rani Agarwal,0865000748 02,Active,01-04-2019,31-03-2020,Marine,6,Ketan Jain,Ahmedabad,Marine,Renewal,21399.44,31-05-2019,Brokerage,Renewal,,22-01-2020
+Arjun Rao,22364363,Active,01-11-2018,31-10-2019,Marine,1,Vinay,Ahmedabad,Affinity,Renewal,23100.17,31-10-2019,Brokerage,Inception,,22-01-2020
+Anil Naik,22387698,Active,24-12-2018,23-12-2019,Marine,1,Vinay,Ahmedabad,Marine,Renewal,1113.92,24-12-2018,Brokerage,Inception,,22-01-2020
+Simran Trivedi,9.90E+19,Active,06-09-2018,05-09-2019,Liability,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,65000,06-09-2018,Brokerage,Inception,,22-01-2020
+Dhruv Chopra,32117648,Active,26-02-2019,25-02-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,2077.5,26-02-2019,Brokerage,Inception,,22-01-2020
+Jaya Chopra,43152633,Inactive,10-11-2017,09-05-2018,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,1566.2,10-11-2017,Brokerage,Lapse,NOLN - No Longer Needed,22-01-2020
+Kiran Goyal,43167538,Inactive,15-06-2018,14-07-2018,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,639.25,15-06-2018,Brokerage,Lapse,NOLN - No Longer Needed,22-01-2020
+Pravin Sengupta,43167694,Inactive,06-06-2018,05-06-2019,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,1180.88,06-06-2018,Brokerage,Lapse,NOLN - No Longer Needed,22-01-2020
+Snehal Das,43191701,Active,02-07-2019,01-01-2020,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,1558.76,02-07-2019,Brokerage,Inception,,22-01-2020
+Rajesh Malhotra,9.90E+19,Active,06-09-2018,05-03-2024,Liability,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,59375,06-09-2018,Brokerage,Inception,,22-01-2020
+Archana Bhatia,9.90E+19,Inactive,09-01-2017,08-04-2018,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,56150.75,09-01-2017,Brokerage,Lapse,NOLN - No Longer Needed,22-01-2020
+Ashok Reddy,9.90E+19,Inactive,10-11-2017,09-11-2018,Miscellaneous,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,3132.5,10-11-2017,Brokerage,Lapse,NOLN - No Longer Needed,22-01-2020
+Madhuri Bhatia,9.90E+19,Active,10-11-2017,09-11-2019,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,30978.63,10-11-2017,Brokerage,Inception,,22-01-2020
+Pranav Mishra,9.90E+19,Active,02-02-2018,01-02-2020,Engineering,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,17934.88,02-02-2018,Brokerage,Inception,,22-01-2020
+Rina Goyal,9.90E+19,Active,21-02-2018,20-02-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,15668.25,21-02-2018,Brokerage,Inception,,22-01-2020
+Geeta Gupta,9.90E+19,Active,09-04-2018,08-07-2019,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,11239.38,09-04-2018,Brokerage,Inception,,22-01-2020
+Sudhir Roy,9.90E+19,Inactive,09-07-2018,08-10-2018,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Renewal,11239.38,09-07-2018,Brokerage,Lapse,NOLN - No Longer Needed,22-01-2020
+Rani Kaul,9.90E+19,Active,10-08-2018,09-02-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,21442.38,20-10-2019,Brokerage,Inception,,22-01-2020
+Kavita Sharma,9.90E+19,Active,10-08-2018,09-02-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,21442.75,27-11-2018,Brokerage,Inception,,22-01-2020
+Shikha Sethi,9.90E+19,Active,10-08-2018,09-02-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,21442.75,16-03-2019,Brokerage,Inception,,22-01-2020
+Amit Bhargava,9.90E+19,Active,10-08-2018,09-02-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,21442.75,03-07-2019,Brokerage,Inception,,22-01-2020
+Alka Goel,9.90E+19,Active,10-08-2018,09-02-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,27085.5,10-08-2018,Brokerage,Inception,,22-01-2020
+Harish Sharma,9.90E+19,Active,10-08-2018,09-02-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,17949.04,27-11-2018,Brokerage,Inception,,22-01-2020
+Gaurav Goel,9.90E+19,Active,10-08-2018,09-02-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,17949.04,16-03-2019,Brokerage,Inception,,22-01-2020
+Ravi Naik,9.90E+19,Active,10-08-2018,09-02-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,17949.04,03-07-2019,Brokerage,Inception,,22-01-2020
+Kamlesh Prasad,9.90E+19,Active,10-08-2018,09-02-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,17949.04,20-10-2019,Brokerage,Inception,,22-01-2020
+Nikhil Verma,9.90E+19,Active,10-08-2018,09-02-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,22672.47,10-08-2018,Brokerage,Inception,,22-01-2020
+Vaishali Desai,9.90E+19,Active,09-10-2018,08-10-2019,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,11239.38,09-10-2018,Brokerage,Inception,,22-01-2020
+Atul Naik,9.90E+17,Active,10-04-2019,09-06-2019,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,2212.38,10-04-2019,Brokerage,Inception,,22-01-2020
+Meena Bhargava,LWC/I2688106/71/10/006144,Inactive,10-07-2018,09-10-2018,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,1363,10-07-2018,Brokerage,Lapse,NOLN - No Longer Needed,22-01-2020
+Mona Chopra,M6867997,Active,25-03-2019,24-03-2020,Motor,13,Vididt Saha,Ahmedabad,Motor,Cross Sell,157.5,25-03-2019,Brokerage,Inception,,22-01-2020
+Mohit Tiwari,M7016785,Active,29-03-2019,28-03-2020,Motor,13,Vididt Saha,Ahmedabad,Motor,Cross Sell,1749.45,29-03-2019,Brokerage,Inception,,22-01-2020
+Tina Dutta,'310304491710000022,Active,25-03-2018,24-03-2019,Liability,1,Vinay,Ahmedabad,Liability,Renewal,6250,25-03-2018,Brokerage,Inception,,22-01-2020
+Hemant Das,OG-20-2202-3305-00000123,Active,25-03-2019,24-03-2020,Liability,9,Manish Sharma,Ahmedabad,Liability,Renewal,8125,25-03-2019,Brokerage,Inception,,22-01-2020
+Sanjana Bhargava,2280038722,Active,15-07-2019,14-01-2020,Miscellaneous,13,Vididt Saha,Ahmedabad,Emerging Corporates Group (ECG),Cross Sell,2788.75,15-07-2019,Brokerage,Inception,,22-01-2020
+Kamlesh Trivedi,43170791,Active,10-08-2018,09-06-2019,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,New,7827.77,10-08-2018,Brokerage,Endorsement,,22-01-2020
+Nikita Tiwari,43170791,Active,10-08-2018,09-06-2019,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,New,0,25-10-2018,Brokerage ,Endorsement,,22-01-2020
+Kapil Kapoor,43170791,Active,10-08-2018,09-06-2019,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,New,4194.8,22-01-2019,Brokerage ,Endorsement,,22-01-2020
+Harish Rana,43182398,Inactive,19-02-2019,18-05-2020,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,1390.13,19-02-2019,Brokerage,Inception,,22-01-2020
+Nikhil Pandit,4.32E+12,Active,18-05-2020,18-08-2020,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,1390.13,18-05-2020,Brokerage,Renewal,,22-01-2020
+Vivek Rana,43189992,Active,10-06-2019,09-12-2019,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,7835.19,10-06-2019,Brokerage,Inception,,22-01-2020
+Hemant Nair,43190133,Active,11-06-2019,10-12-2019,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,7782.56,11-06-2019,Brokerage,Inception,,22-01-2020
+Veena Bhargava,43191701,Active,02-07-2019,01-07-2020,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,,1558.76,02-07-2019,Brokerage,Inception,,22-01-2020
+Shivam Shah,9.90E+19,Active,12-04-2019,11-10-2019,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,3007.5,12-04-2019,Brokerage,Inception,,22-01-2020
+Bhavna Bhandari,9.90E+19,Active,19-11-2019,18-11-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,26804.5,19-11-2019,Brokerage,Inception,,22-01-2020
+Tarun Shah,OG-19-2201-0420-00000001,Inactive,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1771.98,01-04-2018,Brokerage,Inception,,22-01-2020
+Hemant Chauhan,OG-19-2201-0420-00000001,Inactive,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,681.53,01-04-2018,Brokerage,Inception,,22-01-2020
+Geeta Verma,OG-19-2201-0420-00000001,Inactive,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,272.61,01-04-2018,Brokerage,Inception,,22-01-2020
+Ashok Patel,OG-19-2201-0425-00000001,Inactive,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,4175.36,01-04-2018,Brokerage,Inception,,22-01-2020
+Gayatri Reddy,OG-19-2201-0425-00000001,Inactive,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1605.91,01-04-2018,Brokerage,Inception,,22-01-2020
+Snehal Patel,OG-19-2201-0425-00000001,Inactive,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,642.36,01-04-2018,Brokerage,Inception,,22-01-2020
+Vivek Yadav,OG-19-2201-4001-00000061,Inactive,01-04-2018,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,23863.13,31-03-2108,Brokerage,Inception,,22-01-2020
+Kiran Saxena,OG-19-2201-4001-00000061,Inactive,01-04-2018,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,9178.13,31-03-2108,Brokerage,Inception,,22-01-2020
+Uday Reddy,OG-19-2201-4001-00000061,Inactive,01-04-2018,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,3671.25,31-03-2108,Brokerage,Inception,,22-01-2020
+Anita Pandit,OG-19-2201-4001-00000063,Inactive,01-04-2018,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,157.14,01-04-2018,Brokerage,Inception,,22-01-2020
+Hina Malhotra,OG-19-2201-4001-00000063,Inactive,01-04-2018,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,60.44,01-04-2018,Brokerage,Inception,,22-01-2020
+Alka Patel,OG-19-2201-4001-00000063,Inactive,01-04-2018,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,24.17,01-04-2018,Brokerage,Inception,,22-01-2020
+Shruti Roy,OG-19-2201-4005-00000001,Active,01-04-2018,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,23753.44,01-04-2018,Brokerage,Inception,,22-01-2020
+Archana Singh,OG-19-2201-4005-00000001,Active,01-04-2018,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,9135.94,01-04-2018,Brokerage,Inception,,22-01-2020
+Mukul Goyal,OG-19-2201-4005-00000001,Active,01-04-2018,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,3654.37,01-04-2018,Brokerage,Inception,,22-01-2020
+Namita Bajaj,OG-20-2201-9931-00000664,Active,01-04-2019,31-03-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,445.18,01-04-2019,Brokerage,Inception,,22-01-2020
+Nikita Joshi,OG-19-2201-4011-00000002,Inactive,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1598.68,01-04-2018,Brokerage,Inception,,22-01-2020
+Tejas Shah,OG-19-2201-4011-00000002,Inactive,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,614.88,01-04-2018,Brokerage,Inception,,22-01-2020
+Kavita Rao,OG-19-2201-4011-00000002,Inactive,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,245.95,01-04-2018,Brokerage,Inception,,22-01-2020
+Hemant Shah,OG-20-2201-9931-00000664,Active,01-04-2019,31-03-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,2077.51,01-04-2019,Brokerage,Inception,,22-01-2020
+Prabhat Naik,OG-20-2201-9931-00000664,Active,01-04-2019,31-03-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,445.18,01-04-2019,Brokerage,Inception,,22-01-2020
+Nikhil Tiwari,0000000007817932-01,Active,16-12-2018,15-12-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,33484.34,16-12-2018,Brokerage,Inception,,22-01-2020
+Neha Trivedi,0000000007817932-02,Active,16-12-2019,15-12-2020,Fire,2,Abhinav Shivam,Ahmedabad,Small Medium Enterpries (SME),Renewal,109812.12,16-12-2019,Brokerage,Inception,,22-01-2020
+Shruti Agarwal,3.12E+18,Active,10-01-2018,31-05-2018,Liability,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,12084.5,10-01-2018,Brokerage,Inception,,22-01-2020
+Kiran Desai,9.90E+19,Inactive,26-03-2018,25-06-2019,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",New,51965.88,26-03-2018,Brokerage,Lapse,OTHR – Other,22-01-2020
+Kanchan Iyer,9.90E+19,Inactive,07-06-2018,06-06-2019,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,25619.25,07-06-2018,Brokerage,Lapse,OTHR – Other,22-01-2020
+Bhavna Kapoor,9.90E+19,Active,26-06-2019,25-12-2019,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,25598,26-06-2019,Brokerage,Inception,,22-01-2020
+Ritika Reddy,9.90E+19,Active,26-06-2019,25-12-2019,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,25598,26-06-2019,Brokerage,Inception,,22-01-2020
+Suresh Das,9.90E+19,Active,22-11-2019,21-03-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",New,12643.38,22-11-2019,Brokerage,Inception,,22-01-2020
+Shikha Chauhan,9.90E+19,Active,26-12-2019,25-06-2020,Engineering,13,Vididt Saha,Ahmedabad,"Construction, Power & Infrastructure",Cross Sell,25598,26-12-2019,Brokerage,Inception,,22-01-2020
+Hemant Dutta,0526002817P114267969/0,Inactive,01-01-2018,31-12-2018,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,1474120.36,01-01-2018,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+Dinesh Pandey,0526002817P114267969/0,Inactive,01-01-2018,31-12-2018,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,,28-09-2018,Brokerage ,Lapse,,22-01-2020
+Archana Iyer,0526004217P114582552/0,Inactive,01-01-2018,31-12-2018,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,34349.81,01-01-2018,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+Deepak Menon,5051621,Inactive,01-01-2018,31-12-2018,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,51883.58,01-01-2018,Brokerage,Lapse,GMAN – Global Mandate,22-01-2020
+Vivek Gupta,43145480,Inactive,03-07-2017,02-07-2018,Miscellaneous,13,Vididt Saha,Ahmedabad,Employee Benefits (EB),Renewal,15963.92,03-07-2017,Brokerage,Inception,,22-01-2020
+Rina Shah,43168449,Inactive,03-07-2018,02-07-2019,Miscellaneous,13,Vididt Saha,Ahmedabad,Employee Benefits (EB),Renewal,0,03-07-2018,Brokerage,Renewal,,22-01-2020
+Uday Prasad,43191791,Active,03-07-2019,02-10-2019,Miscellaneous,13,Vididt Saha,Ahmedabad,Employee Benefits (EB),Renewal,956.34,03-07-2019,Brokerage,Renewal,,22-01-2020
+Nitin Kapoor,2.22E+19,Inactive,12-01-2018,11-01-2019,Fire,13,Vididt Saha,Ahmedabad,Property / BI,New,5416.62,12-01-2018,Brokerage,Inception,,22-01-2020
+Harish Kaul,2.22E+19,Inactive,12-01-2018,11-01-2019,Marine,13,Vididt Saha,Ahmedabad,Marine,New,6195.75,12-01-2018,Brokerage,Inception,,22-01-2020
+Neeraj Arora,2.22E+19,Inactive,12-01-2018,11-01-2019,Miscellaneous,13,Vididt Saha,Ahmedabad,Property / BI,Cross Sell,518.13,12-01-2018,Brokerage,Inception,,22-01-2020
+Mukul Kumar,3.11E+18,Inactive,19-10-2018,18-10-2019,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,2767.5,19-10-2018,Brokerage,Lapse,NOLN - No Longer Needed,22-01-2020
+Gauri Naik,3.11E+18,Active,25-10-2019,24-10-2020,Miscellaneous,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,8198.25,25-10-2019,Brokerage,Inception,,22-01-2020
+Harish Menon,MCO/I3350570/71/01/006343,Active,12-01-2019,11-01-2020,Marine,13,Vididt Saha,Ahmedabad,Marine,New,9075,12-01-2019,Brokerage,Renewal,,22-01-2020
+Mohit Gupta,MCO/I3350570/71/01/006343,Active,12-01-2019,11-01-2020,Marine,13,Vididt Saha,Ahmedabad,Marine,New,9075,12-01-2019,Brokerage,Renewal,,22-01-2020
+Amit Arora,PBI/I3352741/71/01/006343,Active,12-01-2019,11-01-2020,Miscellaneous,13,Vididt Saha,Ahmedabad,Property / BI,Cross Sell,521.25,12-01-2019,Brokerage,Renewal,,22-01-2020
+Nikita Pandit,PFS/I3353707/71/01/006343,Active,12-01-2019,11-01-2020,Fire,13,Vididt Saha,Ahmedabad,Property / BI,New,7889.31,12-01-2019,Brokerage,Renewal,,22-01-2020
+Vikas Gupta,33393,Inactive,01-11-2018,31-10-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,90307.75,01-11-2018,Brokerage,Inception,,22-01-2020
+Kamlesh Pillai,3393,Active,01-11-2019,31-10-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,114751.5,01-11-2019,Brokerage,Renewal,,22-01-2020
+Umesh Agarwal,2301001342,Active,01-11-2018,31-10-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,52751.13,01-11-2018,Brokerage,Inception,,22-01-2020
+Ankur Gandhi,2302002435,Active,01-11-2018,31-10-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,53125,01-11-2018,Brokerage,Inception,,22-01-2020
+Dinesh Kaul,4006/79486382/05/000,Active,01-11-2018,31-10-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,359.13,01-11-2018,Brokerage,Inception,,22-01-2020
+Ankur Naik,4010/141353816/01/000,Active,01-11-2018,31-10-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,0,01-11-2018,Brokerage,Inception,,22-01-2020
+LAP,4066/140501600/01/000,Active,01-11-2018,31-10-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,0,01-11-2018,Brokerage,Inception,,22-01-2020
+LAP,4086/160357783/00/000,Active,01-11-2018,31-10-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,0,01-11-2018,Brokerage,Inception,,22-01-2020
+LAP,54407334,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,23387.4,01-01-2019,Brokerage,Inception,,22-01-2020
+LAP,H0048996,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,914998.58,01-01-2019,Brokerage,Endorsement,,22-01-2020
+LAP,H0048996,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,93906.08,07-03-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,H0048996,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,27435,23-01-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,H0048996,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,32391.85,10-05-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,H0048996,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,9941.16,10-07-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,H0048996,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,27681.48,14-08-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,H0048996,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,18901.02,14-09-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,H0048996,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,46994.85,29-01-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,H0048996,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,17139.5,11-10-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,H0048996,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,8560.86,14-11-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,H0048996,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,1288.66,03-12-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,H0048996,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,1208.38,19-12-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,H0048996,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,18696.68,11-03-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,H0056637,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,49788.75,01-01-2019,Brokerage,Endorsement,,22-01-2020
+LAP,H0056637,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,49026.75,29-01-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,H0056637,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,1613.78,11-03-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,H0056637,Active,01-01-2019,31-12-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,49026.66,04-02-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,020W000078800000,Active,08-06-2018,07-06-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,Employee Benefits (EB),Renewal,8117.5,08-06-2018,Brokerage,Inception,,22-01-2020
+LAP,0830017645 02,Active,03-06-2018,02-06-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,21614.86,03-06-2018,Brokerage,Inception,,22-01-2020
+LAP,2640009793,Active,03-06-2018,02-06-2019,Engineering,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,60990.71,03-06-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-0425-00000002,Active,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,423.9,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-0425-00000002,Active,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,105.98,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-0425-00000003,Active,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1897.66,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-0425-00000003,Active,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,474.42,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-1018-00000009,Active,01-04-2018,31-03-2019,Marine,3,Animesh Rawat,Ahmedabad,Marine,Renewal,44063.25,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-4001-00007099,Active,15-10-2018,14-10-2019,Fire,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,16387.5,15-10-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-4002-00000005,Active,01-04-2018,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,15899.07,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-4002-00000005,Active,01-04-2018,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,3974.77,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-4003-00000012,Active,01-04-2018,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,6120.48,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-4003-00000012,Active,01-04-2018,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1530.12,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-4004-00000010,Active,01-04-2018,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,32171.2,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-4004-00000010,Active,01-04-2018,31-03-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,8042.8,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-4010-00000104,Active,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,2925,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-4010-00000104,Active,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,731.25,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-4010-00000159,Active,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,627,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-4010-00000159,Active,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,156.75,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-4011-00000003,Active,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1186,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-9931-00000002,Active,01-04-2018,03-01-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,465.9,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-9931-00000002,Active,01-04-2018,03-01-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,116.48,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-9931-00000163,Active,01-04-2018,31-03-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,3456.13,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,2.13E+19,Inactive,01-04-2018,31-03-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,0,01-04-2018,Brokerage,Inception,,22-01-2020
+LAP,2200130820 02,Active,09-05-2018,08-05-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,976.81,09-05-2018,Brokerage,Inception,,22-01-2020
+LAP,4016/120415654/02/00,Inactive,14-07-2018,13-07-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,26250,14-07-2018,Brokerage,Inception,,22-01-2020
+LAP,4016/120415654/03/00,Active,14-07-2019,13-07-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,22245.75,14-07-2019,Brokerage,Renewal,,22-01-2020
+LAP,AG00059046000100,Active,01-04-2019,31-03-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,3346.95,01-04-2019,Brokerage,Renewal,,22-01-2020
+LAP,OG-19-2202-3315-00000009,Inactive,23-07-2018,20-07-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,0,23-07-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-20-2202-3315-00000009,Active,23-07-2019,20-07-2020,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,0,23-07-2019,Brokerage,Renewal,,22-01-2020
+LAP,P0019200001/9999/100301,Active,01-01-2019,31-12-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,19910.88,01-01-2019,Brokerage,Endorsement,,22-01-2020
+LAP,P0019200001/9999/100301,Active,01-01-2019,31-12-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,2139.63,30-01-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,P0218200001/9999/100262,Inactive,01-01-2018,31-12-2018,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,20814.38,01-01-2018,Brokerage,Inception,,22-01-2020
+LAP,0830018887 01,Active,01-03-2018,28-02-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,126225,01-03-2018,Brokerage,Inception,,22-01-2020
+LAP,0830018888 01,Inactive,01-03-2018,28-02-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,63112.5,01-03-2018,Brokerage,Inception,,22-01-2020
+LAP,OG-19-2202-1018-00000060,Active,01-03-2019,29-02-2020,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,148500,01-03-2019,Brokerage,Renewal,,22-01-2020
+LAP,12031703,Active,30-06-2018,29-06-2019,Fire,1,Vinay,Ahmedabad,Property / BI,Renewal,39762.71,30-06-2018,Brokerage,Inception,,22-01-2020
+LAP,2.41E+18,Active,14-12-2018,13-12-2019,Marine,2,Abhinav Shivam,Ahmedabad,Marine,Cross Sell,28050,14-12-2018,Brokerage,Endorsement,,22-01-2020
+LAP,2.41E+18,Active,14-12-2018,13-12-2019,Marine,2,Abhinav Shivam,Ahmedabad,Marine,Cross Sell,56100,08-03-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,2.41E+18,Active,14-12-2018,13-12-2019,Marine,2,Abhinav Shivam,Ahmedabad,Marine,Cross Sell,56100,08-03-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,2.41E+18,Active,14-12-2018,13-12-2019,Marine,2,Abhinav Shivam,Ahmedabad,Marine,Cross Sell,14025,22-10-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,2.41E+18,Active,14-12-2018,13-12-2019,Marine,2,Abhinav Shivam,Ahmedabad,Marine,Cross Sell,14025,22-10-2019,Brokerage ,Endorsement,,22-01-2020
+LAP,41040284,Inactive,09-04-2018,08-04-2019,Liability,11,Raju Kumar,Ahmedabad,Liability,Renewal,59851.63,09-04-2018,Brokerage,Inception,,22-01-2020
+LAP,41046110,Active,09-04-2019,08-04-2020,Liability,1,Vinay,Ahmedabad,Liability,Renewal,74250,09-04-2019,Brokerage,Inception,,22-01-2020
+LAP,HCL,Active,09-04-2019,08-04-2020,Liability,11,Raju Kumar,Ahmedabad,Liability,Renewal,68125,09-04-2019,Brokerage,Renewal,,22-01-2020
+Sanjay Trivedi,2.13E+19,Inactive,01-04-2018,31-03-2019,Liability,6,Ketan Jain,Ahmedabad,Liability,New,117812.5,01-04-2018,Brokerage,Inception,,22-01-2020
+Anita Sethi,2.13E+19,Active,01-04-2019,31-03-2020,Liability,6,Ketan Jain,Ahmedabad,Liability,Renewal,115625,01-04-2019,Brokerage,Renewal,,22-01-2020
+Ashok Chatterjee,'2200060187 06,Active,03-05-2019,02-05-2020,Fire,1,Vinay,Ahmedabad,Liability,Renewal,10427,03-05-2019,Brokerage,Inception,,22-01-2020
+Rani Agarwal,43168456,Inactive,03-06-2018,02-06-2019,Liability,13,Vididt Saha,Ahmedabad,Liability,Renewal,2930.9,03-06-2018,Brokerage,Inception,,22-01-2020
+Arjun Rao,43191787,Active,03-07-2019,02-07-2020,Liability,13,Vididt Saha,Ahmedabad,Liability,Renewal,6213.24,03-07-2019,Brokerage,Renewal,,22-01-2020
+Anil Naik,431172859,Inactive,22-09-2018,21-09-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1772.75,22-09-2019,Brokerage,Inception,,22-01-2020
+Simran Trivedi,43196279,Active,22-09-2019,21-09-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,2970,22-09-2019,Brokerage,Renewal,,22-01-2020
+Dhruv Chopra,OG-19-2202-1005-00000153,Inactive,21-09-2018,20-09-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,5610,21-09-2019,Brokerage,Endorsement,,22-01-2020
+Jaya Chopra,OG-19-2202-1005-00000153,Inactive,21-09-2018,20-09-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,1980,14-06-2019,Brokerage ,Endorsement,,22-01-2020
+Kiran Goyal,OG-19-2202-4097-00000073,Inactive,21-09-2018,20-09-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,3861.25,21-09-2018,Brokerage,Inception,,22-01-2020
+Pravin Sengupta,OG-19-2202-4097-00000077,Inactive,21-09-2018,20-09-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,13036.5,21-09-2018,Brokerage,Inception,,22-01-2020
+Snehal Das,OG-19-2202-4097-00000079,Inactive,21-09-2018,20-09-2019,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,8194.25,21-09-2018,Brokerage,Inception,,22-01-2020
+Rajesh Malhotra,OG-20-2202-1005-00000171-2019,Active,21-09-2019,20-09-2020,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,8580,21-09-2019,Brokerage,Renewal,,22-01-2020
+Archana Bhatia,OG-20-2202-4097-00000170,Active,21-09-2019,20-09-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,4579,21-09-2019,Brokerage,Renewal,,22-01-2020
+Ashok Reddy,OG-20-2202-4097-00000171,Active,21-09-2019,20-09-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,3330,21-09-2019,Brokerage,Renewal,,22-01-2020
+Madhuri Bhatia,OG-20-2202-4097-00000201,Active,21-09-2019,20-09-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,8625.38,21-09-2019,Brokerage,Renewal,,22-01-2020
+Pranav Mishra,'2411202761687800000,Active,19-04-2019,18-04-2020,Marine,1,Vinay,Ahmedabad,Marine,Cross Sell,150.65,19-04-2019,Brokerage,Inception,,22-01-2020
+,304003070,Active,29-11-2018,28-11-2019,Liability,6,Ketan Jain,Ahmedabad,Liability,New,115173.38,29-11-2018,Brokerage,Inception,,22-01-2020
+Geeta Gupta,ST20002720000101,Active,06-01-2019,05-01-2020,Marine,11,Raju Kumar,Ahmedabad,Marine,Cross Sell,825,06-01-2019,Brokerage,Inception,,22-01-2020
+Sudhir Roy,'ST20003045000100,Active,13-06-2018,12-06-2019,Marine,11,Raju Kumar,Ahmedabad,Marine,Renewal,20625,13-06-2018,Brokerage,Inception,,22-01-2020
+Rani Kaul,ST20003618000100,Active,08-04-2019,07-04-2020,Marine,11,Raju Kumar,Ahmedabad,Marine,Cross Sell,2598.75,08-04-2019,Brokerage,Inception,,22-01-2020
+Kavita Sharma,ST20003619000100,Active,08-04-2019,07-04-2020,Marine,11,Raju Kumar,Ahmedabad,Marine,Cross Sell,693,08-04-2019,Brokerage,Inception,,22-01-2020
+Shikha Sethi,STS1086243000100,Active,22-04-2019,21-04-2020,Marine,11,Raju Kumar,Ahmedabad,Marine,Cross Sell,357.06,22-04-2019,Brokerage,Inception,,22-01-2020
+Amit Bhargava,1.31E+19,Active,07-03-2019,06-03-2020,Miscellaneous,11,Raju Kumar,Ahmedabad,Trade Credit &amp; Political Risk,Renewal,41625,06-07-2019,Brokerage,Inception,,22-01-2020
+Alka Goel,1.31E+19,Active,07-03-2019,06-03-2020,Miscellaneous,11,Raju Kumar,Ahmedabad,Trade Credit &amp; Political Risk,Renewal,41625,04-11-2019,Brokerage,Inception,,22-01-2020
+Harish Sharma,1.31E+19,Active,07-03-2019,06-03-2020,Miscellaneous,11,Raju Kumar,Ahmedabad,Trade Credit &amp; Political Risk,Renewal,124875,07-03-2019,Brokerage,Inception,,22-01-2020
+Gaurav Goel,41048751,Active,28-08-2019,27-08-2020,Liability,1,Vinay,Ahmedabad,Liability,Renewal,42900,28-08-2018,Brokerage,Inception,,22-01-2020
+Ravi Naik,41048762,Active,28-08-2019,27-08-2020,Liability,1,Vinay,Ahmedabad,Liability,Renewal,52800,28-08-2019,Brokerage,Inception,,22-01-2020
+Kamlesh Prasad,41048763,Active,28-08-2019,27-08-2020,Liability,1,Vinay,Ahmedabad,Liability,Renewal,44130.41,28-08-2019,Brokerage,Inception,,22-01-2020
+Nikhil Verma,100200080123/01/00,Active,04-01-2019,03-01-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,156000,04-01-2019,Brokerage,Endorsement,,22-01-2020
+Vaishali Desai,100200080123/01/00,Active,04-01-2019,03-01-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,5253.23,18-02-2019,Brokerage ,Endorsement,,22-01-2020
+Atul Naik,100200080123/01/00,Active,04-01-2019,03-01-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,6769.65,15-06-2019,Brokerage ,Endorsement,,22-01-2020
+Meena Bhargava,100200080123/01/00,Active,04-01-2019,03-01-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,8961.98,25-06-2019,Brokerage ,Endorsement,,22-01-2020
+Mona Chopra,10020080123/0000,Inactive,02-01-2018,01-01-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,64155.3,02-01-2018,Brokerage,Lapse,OTHR – Other,22-01-2020
+Mohit Tiwari,LPGPA0000000200,Inactive,02-01-2018,01-01-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,5404.95,02-01-2018,Brokerage,Lapse,OTHR – Other,22-01-2020
+Tina Dutta,LPGPA0000000200/01,Active,04-01-2019,03-01-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,5550,04-01-2019,Brokerage,Inception,,22-01-2020
+Hemant Das,4025/136366502/02/000,Active,08-09-2019,07-09-2020,Liability,13,Vididt Saha,Ahmedabad,Liability,Renewal,18750,08-09-2019,Brokerage,Inception,,22-01-2020
+Sanjana Bhargava,41045707,Active,01-04-2019,31-03-2020,Liability,13,Vididt Saha,Ahmedabad,Liability,Cross Sell,74250,01-04-2019,Brokerage,Inception,,22-01-2020
+Kamlesh Trivedi,3000001017,Active,01-04-2018,31-03-2019,Liability,12,Shivani Sharma,Ahmedabad,PB Client Network (GNB Inward),Renewal,48652.25,01-04-2018,Brokerage,Inception,,22-01-2020
+Nikita Tiwari,3.11E+18,Active,26-08-2019,25-08-2020,Miscellaneous,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,1501.88,26-08-2019,Brokerage,Inception,,22-01-2020
+Kapil Kapoor,OG-19-2202-1018-00000054,Active,01-01-2019,31-12-2019,Marine,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,21157.34,01-01-2019,Brokerage,Inception,,22-01-2020
+Harish Rana,OG-19-2202-3383-00000010,Active,01-01-2019,31-12-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Cross Sell,12019.2,01-01-2019,Brokerage,Inception,,22-01-2020
+Nikhil Pandit,OG-19-2201-4001-00001050,Active,22-08-2018,21-08-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,7324.12,22-08-2018,Brokerage,Inception,,22-01-2020
+Vivek Rana,OG-19-2201-4001-00000973,Active,22-08-2018,21-08-2019,Fire,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,19316.67,22-08-2018,Brokerage,Inception,,22-01-2020
+Hemant Nair,505373,Inactive,26-02-2018,25-02-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,23115.2,26-02-2018,Brokerage,Inception,,22-01-2020
+Veena Bhargava,505373-01,Active,26-02-2019,25-02-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,25336.44,26-02-2019,Brokerage,Renewal,,22-01-2020
+Shivam Shah,51995029,Inactive,28-02-2018,27-02-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,12699.7,28-02-2018,Brokerage,Endorsement,,22-01-2020
+Bhavna Bhandari,51995029,Inactive,28-02-2018,27-02-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,,16-04-2018,Brokerage ,Endorsement,,22-01-2020
+Tarun Shah,52916488,Inactive,28-02-2018,27-02-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,177405.38,28-02-2018,Brokerage,Endorsement,,22-01-2020
+Hemant Chauhan,52916488,Inactive,28-02-2018,27-02-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,,18-07-2018,Brokerage ,Endorsement,,22-01-2020
+Geeta Verma,52916488,Inactive,28-02-2018,27-02-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,,05-09-2018,Brokerage ,Endorsement,,22-01-2020
+Ashok Patel,52916488,Inactive,28-02-2018,27-02-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,,10-04-2018,Brokerage ,Endorsement,,22-01-2020
+Gayatri Reddy,52971603,Inactive,12-06-2018,11-06-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Cross Sell,63872.4,12-06-2018,Brokerage,Lapse,OTHR – Other,22-01-2020
+Snehal Patel,52971603,Inactive,12-06-2018,11-06-2019,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Cross Sell,,06-08-2018,Brokerage ,Lapse,,22-01-2020
+Vivek Yadav,54445288,Active,28-02-2019,27-02-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,11111.4,28-02-2019,Brokerage,Renewal,,22-01-2020
+Kiran Saxena,H0067187,Active,28-02-2019,27-02-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,329250,28-02-2019,Brokerage,Endorsement,,22-01-2020
+Uday Reddy,H0067187,Active,28-02-2019,27-02-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,10772.33,14-03-2019,Brokerage ,Endorsement,,22-01-2020
+Anita Pandit,H0067187,Active,28-02-2019,27-02-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,9283.05,18-04-2019,Brokerage ,Endorsement,,22-01-2020
+Hina Malhotra,H0067187,Active,28-02-2019,27-02-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,6903.45,30-05-2019,Brokerage ,Endorsement,,22-01-2020
+Alka Patel,H0067187,Active,28-02-2019,27-02-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,399.23,21-06-2019,Brokerage ,Endorsement,,22-01-2020
+Shruti Roy,H0067187,Active,28-02-2019,27-02-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,6259.35,21-06-2019,Brokerage ,Endorsement,,22-01-2020
+Archana Singh,H0067187,Active,28-02-2019,27-02-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,7110.45,29-07-2019,Brokerage ,Endorsement,,22-01-2020
+Mukul Goyal,H0067187,Active,28-02-2019,27-02-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,5501.03,21-10-2019,Brokerage ,Endorsement,,22-01-2020
+Namita Bajaj,4016 X 185834560 00 000,Active,08-11-2019,07-11-2020,Employee Benefits,10,Mark,Ahmedabad,Employee Benefits (EB),Renewal,24311.1,08-11-2019,Brokerage,Inception,,22-01-2020
+Nikita Joshi,3.12E+18,Active,31-07-2018,01-07-2019,Liability,3,Animesh Rawat,Ahmedabad,PB Client Network (GNB Inward),Renewal,42416.75,01-07-2019,Brokerage,Inception,,22-01-2020
