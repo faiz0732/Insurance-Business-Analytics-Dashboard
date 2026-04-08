@@ -155,7 +155,7 @@ The project demonstrates a **complete analytics lifecycle**:
 
 ---
 
-### 🟣 Tableau Dashboard (NA)
+
 
 ---
 
