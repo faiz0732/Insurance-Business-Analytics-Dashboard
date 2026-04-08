@@ -166,10 +166,9 @@ The project demonstrates a **complete analytics lifecycle**:
 | `01_Raw_Data` | Dataset files | Raw data |
 | `02_SQL_Scripts` | SQL queries | Data modeling & KPIs |
 | `03_Excel_Dashboard` | Excel file + screenshots | Dashboard & validation |
-| `04_PowerBI_Screenshots` | Dashboard images | Preview |
-| `05_PowerBI_Embedded_Link` | Embedded dashboard link | Live view |
-| `06_Python_Analysis` | (To be added) | Python analysis |
-| `07_Project_Presentation` | PPT file (to be added) | Final presentation |
+| `04_PowerBI_Dashboard_Embedded_Link_&_Screenshot` | Embedded dashboard link | Live view |
+| `05_Python_Analysis` | (To be added) | Python analysis |
+| `06_Project_Presentation` | PPT file (to be added) | Final presentation |
 | `README.md` | Documentation | Project explanation |
 
 ---
@@ -211,7 +210,7 @@ Attribution is required if reused.
 - MySQL Workbench  
 - Microsoft Excel  
 - Power BI Desktop  
-- Python (Planned)  
+- Python (Jupyter Notebook)  
 
 ---
 
